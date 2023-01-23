@@ -1,0 +1,6 @@
+framework module Pods_Spender_AI {
+  umbrella header "Pods-Spender-AI-umbrella.h"
+
+  export *
+  module * { export * }
+}

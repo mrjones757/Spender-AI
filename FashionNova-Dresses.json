@@ -1,0 +1,2621 @@
+{
+    "products": [
+        {
+            "name":"Not Again Midi Dress - Cream",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-15-22Studio2_ME_SS_14-50-24_39_HF22H200_Cream_3161_KS_360x.jpg?v=1660773666",
+            "productUrl":"https://www.fashionnova.com/products/not-again-midi-dress-cream",
+            "price":"34.99"
+        },
+        {
+            "name":"Kaley Sweater Mini Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-12-22Studio2_MS_KP_11-11-58_33_RDAE7420FN_Black_2529_KS_360x.jpg?v=1660698682",
+            "productUrl":"https://www.fashionnova.com/products/kaley-sweater-mini-dress-black",
+            "price":"34.99"
+        },
+        {
+            "name":"Feelin It Midi Dress - Grey/combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/FeelinItMidiDress-Grey_combo_MER_360x.png?v=1621537171",
+            "productUrl":"https://www.fashionnova.com/products/feelin-it-midi-dress-grey-combo",
+            "price":"12.00"
+        },
+        {
+            "name":"Jojo Dress - White",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/Jojo_Dress_-_White_annavasony_JD_360x.jpg?v=1587571962",
+            "productUrl":"https://www.fashionnova.com/products/jojo-dress-white",
+            "price":"29.99"
+        },
+        {
+            "name":"",
+            "imageUrl":"",
+            "productUrl":"",
+            "price":""
+        },
+        {
+            "name":"Plaid Yourself Shirt Mini Dress - Yellow/combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/11-29-21Studio1_CE_TB_13-51-44_48_J3F3012C_Yellowcombo_4990_KS_360x.jpg?v=1638293814",
+            "productUrl":"https://www.fashionnova.com/products/plaid-yourself-shirt-mini-dress-yellow-combo",
+            "price":"24.99"
+        },
+        {
+            "name":"Starting Over Sweater Mini Dress - Black/combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-01-21Studio2_SN_KP_11-04-52_30_ZD6566OCB_Blackcombo_4129_EH_360x.jpg?v=1633387301",
+            "productUrl":"https://www.fashionnova.com/products/starting-over-sweater-mini-dress-black-combo",
+            "price":"29.99"
+        },
+        {
+            "name":"Roxy Ribbed Mini Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-16-22Studio3_DD_IM_09-22-15_2_HD18451_Black_0868_ES_360x.jpg?v=1663360549",
+            "productUrl":"https://www.fashionnova.com/products/roxy-ribbed-mini-dress-black",
+            "price":"19.99"
+        },
+        {
+            "name":"Damsel In Distressed Graphic Mini Dress - Mocha",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/02-20-20_Studio_1_JP_JJ_10-39-50_1__RD17111D_Mocha_P__1_RG_360x.jpg?v=1613773899",
+            "productUrl":"https://www.fashionnova.com/products/damsel-in-distressed-graphic-mini-dress-mocha",
+            "price":"19.99"
+        },
+        {
+            "name":"Daysia Ruched Mini Dress - Heather Grey",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/DaysiaRuchedMiniDress-HeatherGrey_MER_2_c38c821e-bdd2-4356-ab77-b368eda69bf7_360x.jpg?v=1666812054",
+            "productUrl":"https://www.fashionnova.com/products/daysia-ruched-mini-dress-heather-grey",
+            "price":"16.99"
+        },
+        {
+            "name":"Happy Hour Feels Midi Dress - Charcoal",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-18-20Studio1_JP_DJ_14-07-46_12_RD41168L_Charcoal_0028_WG_JF_360x.jpg?v=1606842336",
+            "productUrl":"https://www.fashionnova.com/products/happy-hour-feels-midi-dress-charcoal",
+            "price":"15.00"
+        },
+        {
+            "name":"Sandie Sweatshirt Dress - Heather Grey",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-10-22Studio3_CE_IM_13-03-27_21_CFD1357LA_HeatherGrey_1535_EH_360x.jpg?v=1665443667",
+            "productUrl":"https://www.fashionnova.com/products/sandie-sweatshirt-dress-heather-grey",
+            "price":"24.99"
+        },
+        {
+            "name":"Jeila Collared Mini Dress - Heather Grey",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/03-17-22Studio3_MS_09-44-17_10_73585_HeatherGrey_6440_EH_360x.jpg?v=1665506002",
+            "productUrl":"https://www.fashionnova.com/products/jeila-collared-mini-dress-heather-grey",
+            "price":"7.00"
+        },
+        {
+            "name":"Everyday Ruched Midi Dress - Rust",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/02-19-21Studio2_PA_SD_14-33-10_37_JD42505_Rust_3_KL_360x.jpg?v=1632515088",
+            "productUrl":"https://www.fashionnova.com/products/everyday-ruched-mini-dress-rust",
+            "price":"9.00"
+        },
+        {
+            "name":"Warm Wishes Dress Set - Rust",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/WarmWishesDressSet-Rust_MER_360x.jpg?v=1637005169",
+            "productUrl":"https://www.fashionnova.com/products/warm-wishes-dress-set-rust",
+            "price":"39.99"
+        },
+        {
+            "name":"Cristy Ruched Midi Dress - Chocolate",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/01-10-21Studio3_MS_J_10-12-46_10_JD45235L_Chocolate_0026_KS_360x.jpg?v=1641946733",
+            "productUrl":"https://www.fashionnova.com/products/cristy-ruched-midi-dress-chocolate",
+            "price":"14.00"
+        },
+        {
+            "name":"Hello Cutie Sweater Mini Dress - Camel",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-18-20Studio1_JP_DJ_14-16-33_15_90525SK_Camel_0047_EH_360x.jpg?v=1661469281",
+            "productUrl":"https://www.fashionnova.com/products/hello-cutie-sweater-mini-dress-camel",
+            "price":"44.99"
+        },
+        {
+            "name":"Becca Sweater Midi Dress - Burgundy/combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-30-22Studio4_DD_DJ_11-55-35_33_RDAA8280_Burgundycombo_8539_JB_360x.jpg?v=1661963610",
+            "productUrl":"https://www.fashionnova.com/products/becca-sweater-midi-dress-burgundy-combo",
+            "price":"24.99"
+        },
+        {
+            "name":"Sasha Ribbed Midi Dress - Wine",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-19-22Studio3_RM_ON_15-41-16_24_RD47543L_Wine_1796_EH_360x.jpg?v=1661191783",
+            "productUrl":"https://www.fashionnova.com/products/sasha-ribbed-midi-dress-wine",
+            "price":"14.00"
+        },
+        {
+            "name":"Reena Ribbed Midi Dress - Brick Red",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-14-22Studio6_DM_DJ_10-18-01_3_RD48432L_BrickRed_0440_JB_360x.jpg?v=1663195441",
+            "productUrl":"https://www.fashionnova.com/products/reena-ribbed-midi-dress-brick-red",
+            "price":"10.00"
+        },
+        {
+            "name":"Stay With Me Mini Dress - Burgundy",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-01-19_Studio_2_MA_LE_11-30-36_24_RD63630_Burgundy_CC_34225_JK_NT_360x.jpg?v=1571441709",
+            "productUrl":"https://www.fashionnova.com/products/stay-with-me-mini-dress-burgundy",
+            "price":"12.00"
+        },
+        {
+            "name":"Lala Sweatshirt Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-14-22Studio4_ME_KP_11-40-43_22_CFD1353L_Black_14890_ES_360x.jpg?v=1663190770",
+            "productUrl":"https://www.fashionnova.com/products/lala-sweatshirt-dress-black",
+            "price":"24.99"
+        },
+        {
+            "name":"Struck A Corduroy Mini Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-16-22Studio3_ME_RL_15-14-21_31_FE22H326_Black_0208_KS_360x.jpg?v=1660862574",
+            "productUrl":"https://www.fashionnova.com/products/struck-a-corduroy-mini-dress-black",
+            "price":"39.99"
+        },
+        {
+            "name":"Feeling Fancy Collar Jacket - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/Fashion_Nova_07-31-17-730_360x.jpg?v=1573597277",
+            "productUrl":"https://www.fashionnova.com/products/feeling-fancy-collar-jacket-black",
+            "price":"39.99"
+        },
+        {
+            "name":"Silky Smooth Long Sleeve Slinky Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/11-12-21Studio3_CE_MJ_12-48-29_44_FD40156_Black_1856_DC_360x.jpg?v=1637015528",
+            "productUrl":"https://www.fashionnova.com/products/silky-smooth-long-sleeve-slinky-dress-black",
+            "price":"44.99"
+        },
+        {
+            "name":"Cierra Sweater Midi Dress - Green",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-05-21Studio2_SN_RS_10-20-29_28_RDAD7440FN_Green_0099_DC_360x.jpg?v=1633543311",
+            "productUrl":"https://www.fashionnova.com/products/cierra-sweater-midi-dress-green",
+            "price":"29.99"
+        },
+        {
+            "name":"Feelin It Midi Dress - Taupe",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-28-20Studio1_JP_BH_12-31-04_18_DZ7243_Taupe_0223_RA_360x.jpg?v=1601328525",
+            "productUrl":"https://www.fashionnova.com/products/feelin-it-midi-dress-taupe",
+            "price":"12.00"
+        },
+        {
+            "name":"Elektra Sweater Mini Dress - Neon Fuchsia",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/07-07-22Studio2_ME_RL_11-08-26_24_ID5326_NeonFuchsia_0193_KS_360x.jpg?v=1657302394",
+            "productUrl":"https://www.fashionnova.com/products/elektra-sweater-mini-dress-neon-fuchsia",
+            "price":"39.99"
+        },
+        {
+            "name":"Nila Midi Dress - Heather Grey",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-28-22Studio4_RT_KH_09-49-53_10_RD47588L_HeatherGrey_2073_KS_360x.jpg?v=1664390030",
+            "productUrl":"https://www.fashionnova.com/products/nila-midi-dress-heather-grey",
+            "price":"12.00"
+        },
+        {
+            "name":"Cowgirl Chic Mini Dress - Hunter",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-17-22Studio1_KS_IM_14-12-58_53_D29113_Hunter_2295_JB_360x.jpg?v=1666126732",
+            "productUrl":"https://www.fashionnova.com/products/cowgirl-chic-mini-dress-hunter",
+            "price":"29.99"
+        },
+        {
+            "name":"Next To Me Knit Dress - Purple",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-31-21Studio2_SN_KP_13-25-03_16_21488_Purple_0127_MH_360x.jpg?v=1630603531",
+            "productUrl":"https://www.fashionnova.com/products/next-to-me-knit-dress-purple",
+            "price":"24.00"
+        },
+        {
+            "name":"Emma Snatched Midi Dress - Chocolate",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/EmmaSnatchedMidiDress-Chocolate_MER_360x.jpg?v=1637337758",
+            "productUrl":"https://www.fashionnova.com/products/emma-snatched-midi-dress-chocolate",
+            "price":"39.99"
+        },
+        {
+            "name":"Brealle Rib Midi Dress - Heather Grey",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-03-22Studio4_KS_KP_09-11-51_1_RD44721A_Grey_3543_JB_360x.jpg?v=1665505014",
+            "productUrl":"https://www.fashionnova.com/products/brealle-rib-midi-dress-heather-grey",
+            "price":"12.00"
+        },
+        {
+            "name":"Kari Ruched Mini Dress - Wine",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/KariRuchedMiniDress-Wine_MER_360x.jpg?v=1665509689",
+            "productUrl":"https://www.fashionnova.com/products/kari-ruched-mini-dress-wine",
+            "price":"15.00"
+        },
+        {
+            "name":"Precision Knit Dress - Black/combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/06-16-22Studio2_ME_KP_09-33-26_8_SBD283_Blackcombo_0408_EH_360x.jpg?v=1655743530",
+            "productUrl":"https://www.fashionnova.com/products/precision-knit-dress-black-combo",
+            "price":"39.99"
+        },
+        {
+            "name":"Tall Only Love Satin Mini Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/06-28-22Studio1_CE_KP_15-26-30_70_HF22H377_Black_2589_JB_360x.jpg?v=1665509501",
+            "productUrl":"https://www.fashionnova.com/products/only-love-satin-mini-dress-black",
+            "price":"39.99"
+        },
+        {
+            "name":"Cabin Fever Flannel Midi Dress - Black/White",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-22-22Studio1_KJ_KP_15-58-27_39_HF22G177_BlackWhite_7718_PB_360x.jpg?v=1661287123",
+            "productUrl":"https://www.fashionnova.com/products/cabin-fever-flannel-midi-dress-black-white",
+            "price":"24.99"
+        },
+        {
+            "name":"Erin Ribbed Cami Mini Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-23-22Studio2_SN_RL_13-47-25_6_RD44721A_Black_P_1265_ES_360x.jpg?v=1663969503",
+            "productUrl":"https://www.fashionnova.com/products/erin-ribbed-cami-mini-dress-black",
+            "price":"6.00"
+        },
+        {
+            "name":"Mallorie Ribbed Midi Dress - Blue",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-23-22Studio2_KJ_RL_15-50-35_75_RD47761L_Blue_P_19956_SG_1_360x.jpg?v=1661362507",
+            "productUrl":"https://www.fashionnova.com/products/mallorie-ribbed-midi-dress-blue",
+            "price":"14.00"
+        },
+        {
+            "name":"Layla Velvet Midi Dress - Purple",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-24-22Studio2_MS_Rene_14-05-17_16_VD46807_Purple_P_0330_PB_360x.jpg?v=1661466156",
+            "productUrl":"https://www.fashionnova.com/products/layla-velvet-midi-dress-purple",
+            "price":"12.00"
+        },
+        {
+            "name":"Reena Ribbed Midi Dress - Hunter",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-16-22Studio3_DD_IM_13-50-45_36_RD48432L_Hunter_1336_KS_360x.jpg?v=1663370866",
+            "productUrl":"https://www.fashionnova.com/products/reena-ribbed-midi-dress-hunter",
+            "price":"10.00"
+        },
+        {
+            "name":"Sculpted Ribbed Mini Dress - Blue",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/06-22-20Studio2_MS_SD_12-06-27_37_4530DY_Blue_0441_WG_360x.jpg?v=1658508826",
+            "productUrl":"https://www.fashionnova.com/products/sculpted-ribbed-mini-dress-blue",
+            "price":"14.99"
+        },
+        {
+            "name":"Nila Midi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-29-22Studio4_CE_KP_10-37-40_22_RD47588L_Black_2537_PB_360x.jpg?v=1664483202",
+            "productUrl":"https://www.fashionnova.com/products/nila-midi-dress-black",
+            "price":"12.00"
+        },
+        {
+            "name":"Tall Only Love Satin Mini Dress - Red",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-06-22Studio4_KJ_KP_09-51-05_8_HF22H377_Red_P_5551_EH_360x.jpg?v=1665087903",
+            "productUrl":"https://www.fashionnova.com/products/only-love-satin-mini-dress-red",
+            "price":"39.99"
+        },
+        {
+            "name":"Isabelle Halter Midi Dress - Chocolate",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/02-04-22Studio3_KS_KP_10-11-44_14_73430_Chocolate_0045_EH_360x.jpg?v=1644365837",
+            "productUrl":"https://www.fashionnova.com/products/isabelle-halter-midi-dress-chocolate",
+            "price":"7.00"
+        },
+        {
+            "name":"Thoughts About You Bandage Mini Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-31-22Studio3_ME_RL_15-56-02_32_MD8147_Black_0894_EH_360x.jpg?v=1662051712",
+            "productUrl":"https://www.fashionnova.com/products/thoughts-about-you-bandage-mini-dress-black",
+            "price":"69.99"
+        },
+        {
+            "name":"Your Needs Met Dress - Chocolate",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/07-28-21Studio1_CE_09-24-24_5_d691_Chocolate_0951_KS_360x.jpg?v=1628091054",
+            "productUrl":"https://www.fashionnova.com/products/your-needs-met-chocolate",
+            "price":"16.00"
+        },
+        {
+            "name":"Mildred Sweater Midi Dress - Yellow/combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-07-22Studio4_DD_KP_12-14-55_40_SBD273LS_Yellowcombo_12004_PB_360x.jpg?v=1662654317",
+            "productUrl":"https://www.fashionnova.com/products/mildred-sweater-midi-dress-yellow-combo",
+            "price":"49.99"
+        },
+        {
+            "name":"Jeila Collared Mini Dress - Chocolate",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/03-17-22Studio1_MS_K_10-03-16_11_73585_Chocolate_2210_PB_360x.jpg?v=1665505990",
+            "productUrl":"https://www.fashionnova.com/products/jeila-collared-mini-dress-chocolate",
+            "price":"7.00"
+        },
+        {
+            "name":"Rita Ribbed Mini Dress - Heather Grey",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-21-22Studio3_RM_RL_15-59-28_43_RD47560L_HeatherGrey_P_2836_JB_360x.jpg?v=1663865913",
+            "productUrl":"https://www.fashionnova.com/products/rita-ribbed-mini-dress-heather-grey",
+            "price":"12.00"
+        },
+        {
+            "name":"Rita Ribbed Mini Dress - Cream",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-21-22Studio4_ME_DJ_10-30-43_14_RD47560L_Cream_0086_JB_JB_360x.jpg?v=1663787047",
+            "productUrl":"https://www.fashionnova.com/products/rita-ribbed-mini-dress-cream",
+            "price":"12.00"
+        },
+        {
+            "name":"For The Thrill Of It Midi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/01-28-19_Studio_3_RM_10-42-20_RD33316L_Black_0720_RG_JK_360x.jpg?v=1612565519",
+            "productUrl":"https://www.fashionnova.com/products/for-the-thrill-of-it-midi-dress-black",
+            "price":"12.00"
+        },
+        {
+            "name":"Stating Facts T Shirt Dress - Grey",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/StatingFactsTShirtDress-Grey_MER_360x.jpg?v=1592965466",
+            "productUrl":"https://www.fashionnova.com/products/stating-facts-t-shirt-dress-grey",
+            "price":"34.99"
+        },
+        {
+            "name":"Corita Colorblock Mini Dress - Green/combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/07-21-21Studio2_ME_RL11-33-28_59_VID10115_Greencombo_0114_EH_360x.jpg?v=1646433112",
+            "productUrl":"https://www.fashionnova.com/products/corita-colorblock-mini-dress-green-combo",
+            "price":"34.99"
+        },
+        {
+            "name":"Autumn Love Sweater Mini Dress - Grey/combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-22-22Studio2_RT_RL_15-28-21_63_RDAE6070FN_Greycombo_5793_SG_360x.jpg?v=1661282547",
+            "productUrl":"https://www.fashionnova.com/products/autumn-love-sweater-mini-dress-grey-combo",
+            "price":"24.99"
+        },
+        {
+            "name":"Getting Things Done Mini Dress - Black/Combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/GettingThingsDoneMiniDress-Black_Combo_MER_360x.jpg?v=1629224416",
+            "productUrl":"https://www.fashionnova.com/products/getting-things-done-mini-dress-black-combo",
+            "price":"24.99"
+        },
+        {
+            "name":"On Trend Distressed Mini Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/07-27-22Studio4_RT_DJ_15-59-11_10_SK0841_Black_25263_JB_360x.jpg?v=1659039929",
+            "productUrl":"https://www.fashionnova.com/products/on-trend-distressed-mini-dress-black",
+            "price":"39.99"
+        },
+        {
+            "name":"Running The Show Ruched Mini Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/03-09-21Studio2_SN_SD_14-05-35_24_4690DM_Black_21612_JK_360x.jpg?v=1615332103",
+            "productUrl":"https://www.fashionnova.com/products/running-the-show-ruched-mini-dress-black",
+            "price":"19.99"
+        },
+        {
+            "name":"First And Last Midi Dress - Royal",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-22-22Studio2_ME_AC_15-52-12_21_D11778_Royal_1045_EH_360x.jpg?v=1663951427",
+            "productUrl":"https://www.fashionnova.com/products/first-and-last-midi-dress-royal",
+            "price":"34.99"
+        },
+        {
+            "name":"Beverly Embellished Maxi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-10-22Studio7_ME_KP_10-27-43_7_BCCDS70479_Black_0031__EH_360x.jpg?v=1665434692",
+            "productUrl":"https://www.fashionnova.com/products/beverly-embellished-maxi-dress-black",
+            "price":"119.99"
+        },
+        {
+            "name":"Lacey Maxi Dress - Olive",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-23-22Studio3_RM_AC_13-59-01_4_RD47224A_Olive_1893_JB_360x.jpg?v=1661300615",
+            "productUrl":"https://www.fashionnova.com/products/lacey-maxi-dress-olive",
+            "price":"14.00"
+        },
+        {
+            "name":"Kallan Knit Dress - Purple",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-31-21Studio2_SN_KP_13-23-26_14_21449_Purple_0116_MH_360x.jpg?v=1630603434",
+            "productUrl":"https://www.fashionnova.com/products/kallan-knit-dress-purple",
+            "price":"24.00"
+        },
+        {
+            "name":"Shay Ribbed Mini Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/12-15-21Studio2_KJ_RL_14-08-44_55_RD44266L_Black_6589_WG_360x.jpg?v=1660950734",
+            "productUrl":"https://www.fashionnova.com/products/shay-ribbed-mini-dress-black",
+            "price":"16.00"
+        },
+        {
+            "name":"Cozy Girl Sweater Mini Dress - Wine",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-30-20Studio2_PA_ON_14-50-48_41_9856WM_Wine_0360_WG_360x.jpg?v=1633133631",
+            "productUrl":"https://www.fashionnova.com/products/cozy-girl-sweater-mini-dress-wine",
+            "price":"34.99"
+        },
+        {
+            "name":"Send Me Your Location Maxi Dress - Heather Grey",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/SendMeYourLocationMaxiDress-HeatherGrey_MER_360x.jpg?v=1594945930",
+            "productUrl":"https://www.fashionnova.com/products/send-me-your-location-maxi-top-heather-grey",
+            "price":"24.99"
+        },
+        {
+            "name":"Hottie Midi Dress - Brown",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/07-18-22Studio2_CE_10-13-50_7_JD40301_Brown_0157_SG_360x.jpg?v=1658249706",
+            "productUrl":"https://www.fashionnova.com/products/hottie-midi-dress-brown",
+            "price":"49.99"
+        },
+        {
+            "name":"Just In Time Striped Midi Dress - Grey/combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-08-22Studio4_SN_DJ_11-02-36_17_J3H0447S_Greycombo_12507_PB_360x.jpg?v=1662749835",
+            "productUrl":"https://www.fashionnova.com/products/just-in-time-striped-midi-dress-grey-combo",
+            "price":"34.99"
+        },
+        {
+            "name":"Taryn Sweater Midi Dress - Burgundy",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-20-20Studio1_JP_DJ_13-57-28_22_D11051FN_Burgundy_3718_NT_360x.jpg?v=1597964280",
+            "productUrl":"https://www.fashionnova.com/products/taryn-sweater-midi-dress-burgundy",
+            "price":"24.99"
+        },
+        {
+            "name":"Cloe Midi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-03-22Studio4_KS_KP_10-38-35_30_RD47849L_Black_3812_ES_360x.jpg?v=1664909465",
+            "productUrl":"https://www.fashionnova.com/products/cloe-midi-dress-black",
+            "price":"14.00"
+        },
+        {
+            "name":"Vixen Velvet Mini Dress - Navy",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-31-22Studio3_ME_RL_15-58-56_33_GD2654_Navy_0900_EH_360x.jpg?v=1662051745",
+            "productUrl":"https://www.fashionnova.com/products/vixen-velvet-mini-dress-navy",
+            "price":"29.99"
+        },
+        {
+            "name":"Macie Ruched Halter Dress - Lime",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/05-11-22Studio5_SN_KP_13-54-41_11_73425FN_Lime_12876_KS_KS_KS_360x.jpg?v=1653337149",
+            "productUrl":"https://www.fashionnova.com/products/macie-ruched-halter-dress-lime",
+            "price":"7.00"
+        },
+        {
+            "name":"Good Intentions Maxi Dress - Chocolate",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-26-21Studio2_RM_JH_13-26-35_45_JD35421L_Chocolate_4754_PB_360x.jpg?v=1630017714",
+            "productUrl":"https://www.fashionnova.com/products/good-intentions-maxi-dress-chocolate",
+            "price":"14.00"
+        },
+        {
+            "name":"Love All Of Me Midi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/05-15-18_STUDIO1__68277_Black_0211_3QTR_CROP.JPG?v=1571439084",
+            "productUrl":"https://www.fashionnova.com/products/love-all-of-me-midi-dress-black",
+            "price":"7.00"
+        },
+        {
+            "name":"Whole Lotta Class Deluxe Satin Mini Dress - Blue/combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/WholeLottaClassDeluxeSatinMiniDress-Blue_combo_MER_2_360x.jpg?v=1637366712",
+            "productUrl":"https://www.fashionnova.com/products/whole-lotta-class-deluxe-satin-mini-dress-blue-combo",
+            "price":"29.99"
+        },
+        {
+            "name":"Vivian Turtleneck Mini Dress - Chocolate",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/07-20-22Studio4_KJ_RL_10-40-04_11_72422_Chocolate_2027_KL_360x.jpg?v=1658348981",
+            "productUrl":"https://www.fashionnova.com/products/vivian-turtleneck-mini-dress-chocolate",
+            "price":"10.00"
+        },
+        {
+            "name":"Brooklyn Snatched Mini Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/12-17-20SnatchedCollectionContent_CE_3B_LOOK5_14-31-04_1066_RG_360x.jpg?v=1615411229",
+            "productUrl":"https://www.fashionnova.com/products/brooklyn-riley-snatched-ribbed-mini-dress-black",
+            "price":"39.99"
+        },
+        {
+            "name":"One of the Boys Dress - Olive",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-28-18_Studio_2_10-44-39_T7122_Olive__6656_5__JF_360x.jpg?v=1571437011",
+            "productUrl":"https://www.fashionnova.com/products/one-of-the-boys-dress-olive",
+            "price":"14.99"
+        },
+        {
+            "name":"Rachel Racerback Midi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-02-22Studio1_CE_MR_13-33-32_21_DX5737_Black_PR_7033_SG_360x.jpg?v=1659572942",
+            "productUrl":"https://www.fashionnova.com/products/rachel-racerback-midi-dress-black",
+            "price":"12.00"
+        },
+        {
+            "name":"Shanghai Ruched Dress - Brown",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/ShanghaiRuchedDress-Brown_MER_360x.jpg?v=1656548357",
+            "productUrl":"https://www.fashionnova.com/products/shanghai-ruched-dress-brown",
+            "price":"14.00"
+        },
+        {
+            "name":"Comfy Chic Sweater Midi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-17-21Studio2_CE_11-35-30_40_HF21G393_Black_11418_PB_360x.jpg?v=1629411553",
+            "productUrl":"https://www.fashionnova.com/products/comfy-chic-sweater-midi-dress-black",
+            "price":"34.99"
+        },
+        {
+            "name":"Mariana Maxi Dress - Olive",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-28-22Studio4_RT_KH_09-41-03_6_JD47508_Olive_2050_ES_360x.jpg?v=1664397197",
+            "productUrl":"https://www.fashionnova.com/products/mariana-maxi-dress-olive",
+            "price":"10.00"
+        },
+        {
+            "name":"Thanks Enjoy T-Shirt Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/05-11-21Studio4_CE_ON_09-57-33_6_D2890_Black_0216_RA_360x.jpg?v=1658794534",
+            "productUrl":"https://www.fashionnova.com/products/thanks-enjoy-t-shirt-dress-black",
+            "price":"20.00"
+        },
+        {
+            "name":"She Shines Sequin Maxi Dress - Red",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-25-22Studio7_ME_DJ_14-50-43_57_5552D_Red_1207_ES_360x.jpg?v=1661472891",
+            "productUrl":"https://www.fashionnova.com/products/she-shines-sequin-maxi-dress-red",
+            "price":"49.99"
+        },
+        {
+            "name":"Danya Mini Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-26-21Studio2_RM_JH_13-52-14_52_RD44586L_Black_4820_EH_360x.jpg?v=1658792296",
+            "productUrl":"https://www.fashionnova.com/products/danya-mini-dress-black",
+            "price":"14.00"
+        },
+        {
+            "name":"Ajay Maxi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/AjayMaxiDress-Black_MER_67c497a6-6ec6-4287-8fd5-360e48fd4073_360x.jpg?v=1638480100",
+            "productUrl":"https://www.fashionnova.com/products/ajay-maxi-dress-black",
+            "price":"29.99"
+        },
+        {
+            "name":"Raina T-Shirt Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-10-22Studio2_TH_RA_13-51-23_15_DZ22G684_Black_4503_ES_360x.jpg?v=1665447060",
+            "productUrl":"https://www.fashionnova.com/products/raina-t-shirt-dress-black",
+            "price":"24.99"
+        },
+        {
+            "name":"Jojo Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/JojoDress-Black_MER_360x.jpg?v=1630526757",
+            "productUrl":"https://www.fashionnova.com/products/jojo-dress-black",
+            "price":"29.99"
+        },
+        {
+            "name":"Colorful World Sweater Maxi Dress Set - Green/combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/07-06-22Studio1_ME_MR_10-23-05_2_IST4866_Greencombo_7468_SG_360x.jpg?v=1657301478",
+            "productUrl":"https://www.fashionnova.com/products/colorful-world-sweater-maxi-dress-set-green-combo",
+            "price":"49.99"
+        },
+        {
+            "name":"Cappuccino Please Sweater Midi Dress - Nude/combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/12-02-21Studio2_SN_TB_13-03-59_41_SBD230_Nudecombo_1626_MH_360x.jpg?v=1638812331",
+            "productUrl":"https://www.fashionnova.com/products/cappuccino-please-sweater-midi-dress-nude-combo",
+            "price":"49.99"
+        },
+        {
+            "name":"Kora Midi Dress - Hunter",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-01-20Studio1_JP_ON_15-32-33_50_DZ5787_Hunter_0205_EH_360x.jpg?v=1601598842",
+            "productUrl":"https://www.fashionnova.com/products/kora-midi-dress-hunter",
+            "price":"15.00"
+        },
+        {
+            "name":"Cut It Midi Dress - Red",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-09-22Studio4_CE_DJ_13-38-08_42_J3H0285S_Red_13491_SG_360x.jpg?v=1662764917",
+            "productUrl":"https://www.fashionnova.com/products/cut-it-midi-dress-red",
+            "price":"24.99"
+        },
+        {
+            "name":"Sheer Luck Sweater Midi Dress - Green",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-22-22Studio2_RT_RL_11-52-57_34_RDAD2530FN_Green_5582_PB_360x.jpg?v=1663707430",
+            "productUrl":"https://www.fashionnova.com/products/sheer-luck-sweater-mini-dress-green",
+            "price":"34.99"
+        },
+        {
+            "name":"Full Coverage Maxi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-28-18_Studio_2_11-36-32_D5246_Black0499_NT_360x.jpg?v=1660948022",
+            "productUrl":"https://www.fashionnova.com/products/full-coverage-maxi-dress-black",
+            "price":"20.00"
+        },
+        {
+            "name":"Mojave Mesh Maxi Dress - Brown/combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-07-22Studio2_KJ_MR_15-45-12_37_FD40350_Browncombo_22266_SG_360x.jpg?v=1665419124",
+            "productUrl":"https://www.fashionnova.com/products/mojave-mesh-maxi-dress-brown-combo",
+            "price":"34.99"
+        },
+        {
+            "name":"Heather Sweater Midi Dress - Cognac",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-20-20Studio1_JP_OA_12-13-32_14_13686_Cognac_3696_RA_360x.jpg?v=1603296837",
+            "productUrl":"https://www.fashionnova.com/products/heather-sweater-midi-dress-cognac",
+            "price":"54.99"
+        },
+        {
+            "name":"Annabelle Sweater Mini Dress - Sage",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/01-18-21Studio2_MS_SD_14-41-46_47_YLD4005FN_Sage_14600_NT_360x.jpg?v=1658794656",
+            "productUrl":"https://www.fashionnova.com/products/annabelle-sweater-mini-dress-sage",
+            "price":"39.99"
+        },
+        {
+            "name":"Forever Dreaming Of You Mini Dress - Taupe",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-07-20Studio1_RM_ON_11-53-07_25_FL21A270_Taupe_0259_RA_360x.jpg?v=1658791419",
+            "productUrl":"https://www.fashionnova.com/products/forever-dreaming-of-you-mini-dress-taupe",
+            "price":"24.99"
+        },
+        {
+            "name":"Cold As Ice Sweater Mini Dress - Burgundy",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-25-22Studio1_RM_AC_11-34-28_18_RDAE7200FN_Burgundy_0238_ES_360x.jpg?v=1661532570",
+            "productUrl":"https://www.fashionnova.com/products/cold-as-ice-sweater-mini-dress-burgundy",
+            "price":"29.99"
+        },
+        {
+            "name":"Sweet Sayings Mini Dress - Red",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/SweetSayingsMiniDress-Red_MER_360x.jpg?v=1590716939",
+            "productUrl":"https://www.fashionnova.com/products/sweet-sayings-mini-dress-red",
+            "price":"49.99"
+        },
+        {
+            "name":"High Class Babe Bandage Midi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-08-22Studio4_SN_DJ_10-48-28_13_WR5063_Black_12466_PB_360x.jpg?v=1662682683",
+            "productUrl":"https://www.fashionnova.com/products/high-class-babe-bandage-midi-dress-black",
+            "price":"69.99"
+        },
+        {
+            "name":"Raina T-Shirt Dress - Olive",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-10-22Studio2_TH_RA_13-54-39_16_DZ22G684_Olive_P_4515_JB_360x.jpg?v=1665448053",
+            "productUrl":"https://www.fashionnova.com/products/raina-t-shirt-dress-olive",
+            "price":"24.99"
+        },
+        {
+            "name":"Got A Chance Maxi Shirt Dress - White/combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/03-23-21Studio2_JP_SD_10-22-37_6_SMX190862_Whitecombo_PLUS_27934_EH_360x.jpg?v=1616546930",
+            "productUrl":"https://www.fashionnova.com/products/got-a-chance-maxi-shirt-dress-white-combo",
+            "price":"39.99"
+        },
+        {
+            "name":"No Ruche At All Sweater Mini Dress - Denim",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/01-18-21Studio2_MS_SD_12-16-29_34_DI4986_Denim_14335_CROP_JK_360x.jpg?v=1665508305",
+            "productUrl":"https://www.fashionnova.com/products/no-ruche-at-all-sweater-mini-dress-denim",
+            "price":"24.99"
+        },
+        {
+            "name":"Good Attitude Mini Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/03-14-22Studio4_RM_CP_14-40-35_57_RD46110_Black_5282_MH_360x.jpg?v=1658444902",
+            "productUrl":"https://www.fashionnova.com/products/good-attitude-mini-dress-black",
+            "price":"9.00"
+        },
+        {
+            "name":"One Chance Sweater Midi Dress - Olive",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-16-22Studio2_MS_11-35-31_23_HF22F767_Olive_3658_KS_WG_360x.jpg?v=1663865997",
+            "productUrl":"https://www.fashionnova.com/products/one-chance-sweater-midi-dress-olive",
+            "price":"39.99"
+        },
+        {
+            "name":"Heather Ribbed Midi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-24-22Studio2_MS_Rene_14-18-42_19_RD47718L_Black_P_0360_PB_360x.jpg?v=1661448357",
+            "productUrl":"https://www.fashionnova.com/products/heather-ribbed-midi-dress-black",
+            "price":"14.00"
+        },
+        {
+            "name":"Paris In The Rain Sweater Midi Dress - Chocolate",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-13-22Studio3_ME_IM_13-33-13_36_RDAE6420FN_Chocolate_3326_EH_360x.jpg?v=1663111339",
+            "productUrl":"https://www.fashionnova.com/products/paris-in-the-rain-sweater-midi-dress-chocolate",
+            "price":"34.99"
+        },
+        {
+            "name":"Cristy Ruched Midi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/01-07-22Studio3_CE_MJ_12-12-57_54_JD45235L_Black_0259_PB_360x.jpg?v=1641850950",
+            "productUrl":"https://www.fashionnova.com/products/cristy-ruched-midi-dress-black",
+            "price":"14.00"
+        },
+        {
+            "name":"CEO Moves Midi Dress - Eggplant",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/CEOMovesMidiDress-Eggplant_MER_360x.jpg?v=1633112908",
+            "productUrl":"https://www.fashionnova.com/products/ceo-moves-midi-dress-eggplant",
+            "price":"34.99"
+        },
+        {
+            "name":"Beauty Secrets Satin Mini Dress - Pink/combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/07-27-21Studio2_CE_KP_11-01-06_44_DR17351_Pinkcombo_0607_EH_360x.jpg?v=1632851147",
+            "productUrl":"https://www.fashionnova.com/products/beauty-secrets-satin-mini-dress-pink-combo",
+            "price":"44.99"
+        },
+        {
+            "name":"Yara Sequin Maxi Dress - Blue",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/07-12-22Studio6_DN_RL_09-51-45_9_2136P1_Blue_P_4486_PB_360x.jpg?v=1657665217",
+            "productUrl":"https://www.fashionnova.com/products/yara-sequin-maxi-dress-blue",
+            "price":"69.99"
+        },
+        {
+            "name":"Forever Royalty Velvet Midi Dress - Royal",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/07-14-22Studio1_SN_MR_11-33-46_15_DR2103_Royal_2238_PB_360x.jpg?v=1657920736",
+            "productUrl":"https://www.fashionnova.com/products/forever-royalty-velvet-midi-dress-royal",
+            "price":"49.99"
+        },
+        {
+            "name":"Executives Only Shirt Dress - White",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/01-11-22Studio1_RM_R_09-14-30_1_DR1656_White_0600_PB_360x.jpg?v=1642094862",
+            "productUrl":"https://www.fashionnova.com/products/executives-only-shirt-dress-white",
+            "price":"39.99"
+        },
+        {
+            "name":"Serenity Sweater Midi Dress - Charcoal",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-06-21Studio2_SN_KP_13-18-01_65_SD106_Charcoal_0282_EH_360x.jpg?v=1633637379",
+            "productUrl":"https://www.fashionnova.com/products/serenity-sweater-midi-dress-charcoal",
+            "price":"49.99"
+        },
+        {
+            "name":"Take Your Man Ruched Dress - Burgundy",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-28-20Studio1_JP_BH_12-52-53_22_JD41968L_Burgundy_0280_JK_360x.jpg?v=1601335679",
+            "productUrl":"https://www.fashionnova.com/products/take-your-man-ruched-dress-burgundy",
+            "price":"12.00"
+        },
+        {
+            "name":"Paris In The Rain Sweater Midi Dress - Taupe",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-13-22Studio3_ME_IM_14-51-46_49_RDAE6420FN_Taupe_3501_EH_360x.jpg?v=1663112274",
+            "productUrl":"https://www.fashionnova.com/products/paris-in-the-rain-sweater-midi-dress-taupe",
+            "price":"34.99"
+        },
+        {
+            "name":"Rylee Sweater Midi Dress - Beige",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-21-22Studio2_MS_RL_15-15-40_44_LSD2971_Beige_2269_JB_360x.jpg?v=1666632438",
+            "productUrl":"https://www.fashionnova.com/products/rylee-sweater-midi-dress-beige",
+            "price":"49.99"
+        },
+        {
+            "name":"Rita Ribbed Mini Dress - Light Blue",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-21-22Studio4_ME_DJ_10-46-38_18_RD47560L_LightBlue_0119_EH_360x.jpg?v=1663791777",
+            "productUrl":"https://www.fashionnova.com/products/rita-ribbed-mini-dress-light-blue",
+            "price":"12.00"
+        },
+        {
+            "name":"Alora Sequin Maxi Gown - Royal",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-04-22Studio7_SN_KP_10-37-53_23_2176FN_Royal_7284_JB_360x.jpg?v=1664911436",
+            "productUrl":"https://www.fashionnova.com/products/alora-sequin-maxi-gown-royal",
+            "price":"99.99"
+        },
+        {
+            "name":"Country Concert Plaid Mini Dress - Burgundy/combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/CountryConcertPlaidMiniDress-Burgundycombo_MER_2_360x.jpg?v=1638380460",
+            "productUrl":"https://www.fashionnova.com/products/country-concert-plaid-mini-dress-burgundy-combo",
+            "price":"24.99"
+        },
+        {
+            "name":"Diamond Dreams Mesh Mini Dress - White",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/DiamondDreamsMeshMiniDress-White_360x.jpg?v=1632787148",
+            "productUrl":"https://www.fashionnova.com/products/diamond-dreams-mesh-mini-dress-white",
+            "price":"44.99"
+        },
+        {
+            "name":"Kelcie Mini Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-11-22Studio4_TH_DJ_10-30-09_13_HF22H552_Black_1075_EH_360x.jpg?v=1665514254",
+            "productUrl":"https://www.fashionnova.com/products/kelcie-mini-dress-black",
+            "price":"24.99"
+        },
+        {
+            "name":"Melanie Satin Maxi Dress - Navy",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/04-20-22Studio2_CE_KP_10-00-05_11_MF21100_Navy_P_0059_SG_360x.jpg?v=1650493659",
+            "productUrl":"https://www.fashionnova.com/products/melanie-satin-maxi-dress-navy",
+            "price":"79.99"
+        },
+        {
+            "name":"Lina Slinky Maxi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-15-21Studio2_ME_KP_11-30-30_25_FS22A066_Black_0344_EH_360x.jpg?v=1631750625",
+            "productUrl":"https://www.fashionnova.com/products/lina-slinky-maxi-dress-black",
+            "price":"29.99"
+        },
+        {
+            "name":"Not Hiss Girl Snake Print Midi Dress - Brown/combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/01-20-20_Studio_1_RM_KS_11-34-14_20__TD1054B_BrownCombo_3785_NT_360x.jpg?v=1580408433",
+            "productUrl":"https://www.fashionnova.com/products/not-hiss-girl-snake-print-midi-dress-brown-combo",
+            "price":"19.99"
+        },
+        {
+            "name":"Mandy Ruched Midi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/03-31-22Studio4_RM_CP_14-19-02_41_FS21F888_Black_0023_KL_360x.jpg?v=1649260390",
+            "productUrl":"https://www.fashionnova.com/products/mandy-ruched-midi-dress-black",
+            "price":"29.99"
+        },
+        {
+            "name":"Feelin It Midi Dress - Red",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-29-20Studio2_MS_SD_15-32-10_50_DZ7243_Red_6841_EH_360x.jpg?v=1606851197",
+            "productUrl":"https://www.fashionnova.com/products/feelin-it-midi-dress-red",
+            "price":"12.00"
+        },
+        {
+            "name":"Simple Elegance Satin Maxi Gown - Emerald",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/06-28-22Studio1_CE_KP_11-56-00_45_FN256_Emerald_2025_JB_360x.jpg?v=1656524849",
+            "productUrl":"https://www.fashionnova.com/products/simple-elegance-satin-maxi-gown-emerald",
+            "price":"89.99"
+        },
+        {
+            "name":"Hollie Sequin Midi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-22-22Studio4_SN_DJ_10-23-56_2_DI8150_Black_27526_PB_360x.jpg?v=1663882843",
+            "productUrl":"https://www.fashionnova.com/products/hollie-sequin-midi-dress-black",
+            "price":"49.99"
+        },
+        {
+            "name":"Teagan Satin Maxi Dress Set - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-08-22Studio1_KJ_LT_10-42-08_3_MD8226_Black_13298_JB_360x.jpg?v=1662664057",
+            "productUrl":"https://www.fashionnova.com/products/teagan-satin-maxi-dress-set-black",
+            "price":"79.99"
+        },
+        {
+            "name":"Akaira Blazer Dress - White",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/06-28-22Studio1_CE_KP_11-49-48_41_BD2705A_White_1965_KS_360x.jpg?v=1656513549",
+            "productUrl":"https://www.fashionnova.com/products/akaira-blazer-dress-white",
+            "price":"79.99"
+        },
+        {
+            "name":"Grab Some Coco Sweater Maxi Dress - Taupe",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-07-22Studio4_DD_KP_12-06-42_37_MD8182_Taupe_11965_PB_360x.jpg?v=1662654154",
+            "productUrl":"https://www.fashionnova.com/products/grab-some-coco-sweater-maxi-dress-taupe",
+            "price":"49.99"
+        },
+        {
+            "name":"Julie Ribbed Midi Dress - Olive",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-29-22Studio4_CE_KP_10-30-28_19_RD47261L_Olive_2505_PB_360x.jpg?v=1664482059",
+            "productUrl":"https://www.fashionnova.com/products/julie-ribbed-midi-dress-olive",
+            "price":"10.00"
+        },
+        {
+            "name":"Nora Striped Maxi Dress - Black/White",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/NoraStripedMaxiDress-Black_White_MER_360x.png?v=1636069112",
+            "productUrl":"https://www.fashionnova.com/products/nora-striped-maxi-dress-black-white",
+            "price":"49.99"
+        },
+        {
+            "name":"No Strings Attached Sequin Mini Dress - Black/Gold",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-29-22Studio4_CE_KP_09-58-44_12_D25409_BlackGold_2431_PB_360x.jpg?v=1664475795",
+            "productUrl":"https://www.fashionnova.com/products/no-strings-attached-sequin-mini-dress-black-gold",
+            "price":"49.99"
+        },
+        {
+            "name":"Attention Given Sequin Maxi Dress - Neon Pink",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-13-22Studio2_RM_14-32-35_3_22GWF0389_NeonPink_6105__SG_360x.jpg?v=1663113790",
+            "productUrl":"https://www.fashionnova.com/products/attention-given-sequin-maxi-dress-neon-pink",
+            "price":"99.99"
+        },
+        {
+            "name":"Wild Instincts Mesh Midi Dress - Black/combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-06-22Studio4_KJ_IM_15-36-44_54_BD20793_Blackcombo_11508_SG_360x.jpg?v=1662508171",
+            "productUrl":"https://www.fashionnova.com/products/wild-instincts-mesh-midi-dress-black-combo",
+            "price":"44.99"
+        },
+        {
+            "name":"Luxe Feeling Sequin Gown - White",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/06-09-22Studio5_CE_RL_14-59-28_32_FN603_White_P_1461_KS_360x.jpg?v=1655132907",
+            "productUrl":"https://www.fashionnova.com/products/luxe-feeling-sequin-gown-white",
+            "price":"89.99"
+        },
+        {
+            "name":"Sasha Ribbed Midi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-19-22Studio3_RM_ON_15-27-19_19_RD47543L_Black_1752_EH_360x.jpg?v=1661191585",
+            "productUrl":"https://www.fashionnova.com/products/sasha-ribbed-midi-dress-black",
+            "price":"14.00"
+        },
+        {
+            "name":"Becca Sequin Maxi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/06-28-22Studio1_CE_KP_13-47-05_56_9253LDP1_Black_2180_JB_360x.jpg?v=1656535662",
+            "productUrl":"https://www.fashionnova.com/products/becca-sequin-maxi-dress-black",
+            "price":"89.99"
+        },
+        {
+            "name":"Camilla Tulle Maxi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-05-22Studio7_MS_ALEX_11-33-38_14_BD3080_Black_7753_KS_360x.jpg?v=1665008663",
+            "productUrl":"https://www.fashionnova.com/products/camilla-tulle-maxi-dress-black",
+            "price":"99.99"
+        },
+        {
+            "name":"Cocktail Please Bandage Midi Dress - Green",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-12-22Studio2_MS_KP_10-53-22_27_SD388222FN_Green_2448_KL_360x.jpg?v=1667245598",
+            "productUrl":"https://www.fashionnova.com/products/cocktail-please-bandage-midi-dress-green",
+            "price":"79.99"
+        },
+        {
+            "name":"Rosie Satin Mini Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-31-22Studio3_ME_RL_15-53-38_31_FE22H175_Black_0888_EH_360x.jpg?v=1662051669",
+            "productUrl":"https://www.fashionnova.com/products/rosie-satin-mini-dress-black",
+            "price":"34.99"
+        },
+        {
+            "name":"Litzel Sweater Midi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-11-22Studio2_ME_RL_15-21-54_33_DZ22F932_Black_0156_EH_360x.jpg?v=1665530414",
+            "productUrl":"https://www.fashionnova.com/products/litzel-sweater-midi-dress-black",
+            "price":"24.99"
+        },
+        {
+            "name":"All In Love Sequin Maxi Dress - Hunter",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/06-30-22Studio5_RT_RL_15-37-31_37_9353_Hunter_3043_EH_360x.jpg?v=1656706149",
+            "productUrl":"https://www.fashionnova.com/products/all-in-love-sequin-maxi-dress-hunter",
+            "price":"84.99"
+        },
+        {
+            "name":"Next To Me Knit Dress - Pink",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/11-19-19_Studio_3_RM_JJ_10-47-19_13__21488_Pink_0601_RA_360x.jpg?v=1660950927",
+            "productUrl":"https://www.fashionnova.com/products/next-to-me-knit-dress-pink",
+            "price":"24.00"
+        },
+        {
+            "name":"Catrina Collared Midi Dress - Heather Grey",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-28-22Studio4_RT_KH_09-46-15_8_RD47671L_HeatherGrey_2061_JB_360x.jpg?v=1664389906",
+            "productUrl":"https://www.fashionnova.com/products/catrina-collared-midi-dress-heather-grey",
+            "price":"12.00"
+        },
+        {
+            "name":"Erica Sweater Midi Dress - Brown",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-17-22Studio2_ME_AC_15-55-00_6_DZ23A221_Brown_23462_SG_360x.jpg?v=1666114740",
+            "productUrl":"https://www.fashionnova.com/products/erica-sweater-midi-dress-brown",
+            "price":"24.99"
+        },
+        {
+            "name":"Kallan Knit Dress - White",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-14-22Studio7_ME_RL_14-14-26_37_21449_White_1427__WG_360x.jpg?v=1667330572",
+            "productUrl":"https://www.fashionnova.com/products/kallan-knit-dress-white",
+            "price":"24.00"
+        },
+        {
+            "name":"Got Me Covered Ribbed Mini Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-22-19_Studio_2_MA_AG_09-24-08_3_RD36498L_Black_PLUS___2_JD_360x.jpg?v=1571441444",
+            "productUrl":"https://www.fashionnova.com/products/got-me-covered-ribbed-mini-dress-black",
+            "price":"10.00"
+        },
+        {
+            "name":"Vintage Lovers Mini Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-24-22Studio6_DD_AC_15-57-18_46_D29349_Black_1071_ES_360x.jpg?v=1661462964",
+            "productUrl":"https://www.fashionnova.com/products/vintage-lovers-mini-dress-black",
+            "price":"34.99"
+        },
+        {
+            "name":"Savy Striped Midi Dress - Olive/combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-12-22Studio2_MS_KP_13-30-11_65_RDAD3171FN_Olivecombo_29171_PB_360x.jpg?v=1660699514",
+            "productUrl":"https://www.fashionnova.com/products/savy-striped-midi-dress-olive-combo",
+            "price":"34.99"
+        },
+        {
+            "name":"Amilia Double Lined Midi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-26-21Studio2_RM_JH_14-03-23_56_JD44588L_Black_4852_PB_360x.jpg?v=1630021322",
+            "productUrl":"https://www.fashionnova.com/products/amilia-double-lined-midi-dress-black",
+            "price":"24.99"
+        },
+        {
+            "name":"Afternoon Tea Sweater Mini Dress - Green",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-05-22Studio2_DM_OS_15-03-07_55_91151SK_Green_4798_JB_360x.jpg?v=1659988451",
+            "productUrl":"https://www.fashionnova.com/products/afternoon-tea-sweater-mini-dress-green",
+            "price":"49.99"
+        },
+        {
+            "name":"Elisabeth Halter Mini Dress - Royal",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/03-09-22Studio2_CE_KG_11-45-22_65_73543_Royal_0576_KL_360x.jpg?v=1646955756",
+            "productUrl":"https://www.fashionnova.com/products/elisabeth-halter-mini-dress-royal",
+            "price":"8.00"
+        },
+        {
+            "name":"Isabelle Halter Midi Dress - Red",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/04-05-22Studio2_RT_RL_10-54-12_30_73430_Red_P_14228_SG_360x.jpg?v=1649367670",
+            "productUrl":"https://www.fashionnova.com/products/isabelle-halter-midi-dress-red",
+            "price":"7.00"
+        },
+        {
+            "name":"Cozy Moments Sweater Dress - Cognac",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-05-22Studio2_DM_OS_15-11-09_56_42132_Cognac_4803_JB_360x.jpg?v=1659988490",
+            "productUrl":"https://www.fashionnova.com/products/cozy-moments-sweater-dress-cognac",
+            "price":"49.99"
+        },
+        {
+            "name":"Autumn Calls Sweater Midi Dress - Mustard",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-22-22Studio1_KJ_KP_10-49-09_3_RDAA6770FN_Mustard_R_7188_JB_360x.jpg?v=1661284573",
+            "productUrl":"https://www.fashionnova.com/products/autumn-calls-sweater-midi-dress-mustard",
+            "price":"24.99"
+        },
+        {
+            "name":"Jacklyn Off Shoulder Mini Dress - Oatmeal",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/Kylie_Image_a2642c45-2c12-41f6-bee7-f73e975bd3a4_360x.jpg?v=1582681882",
+            "productUrl":"https://www.fashionnova.com/products/jacklyn-off-shoulder-mini-dress-oatmeal",
+            "price":"14.99"
+        },
+        {
+            "name":"Don't Hate Sweater Mini Dress - Taupe",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/Don_tHateSweaterMiniDress-Taupe_MER_360x.jpg?v=1634328007",
+            "productUrl":"https://www.fashionnova.com/products/dont-hate-sweater-mini-dress-taupe",
+            "price":"44.99"
+        },
+        {
+            "name":"Hilaria Ribbed Midi Dress - White",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/12-21-21Studio2_DM_CP_14-56-03_40_NW0005_White_9096_EH_360x.jpg?v=1659740852",
+            "productUrl":"https://www.fashionnova.com/products/hilaria-ribbed-midi-dress-white",
+            "price":"39.99"
+        },
+        {
+            "name":"Janelle Midi Dress - Green",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/06-10-22Studio4_ME_RL_15-58-11_40_JD45803_Green_0420_KS_360x.jpg?v=1655152915",
+            "productUrl":"https://www.fashionnova.com/products/janelle-midi-dress-green",
+            "price":"7.00"
+        },
+        {
+            "name":"Sunset Rider Mini Dress - Black/Grey",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-06-22Studio4_KJ_KP_13-16-43_47_D29598_BlackGrey_0327_JB_360x.jpg?v=1665093039",
+            "productUrl":"https://www.fashionnova.com/products/sunset-rider-mini-dress-black-grey",
+            "price":"29.99"
+        },
+        {
+            "name":"Mariana Maxi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-29-22Studio4_CE_KP_10-47-52_25_JD47508_Black_2578_PB_360x.jpg?v=1664482454",
+            "productUrl":"https://www.fashionnova.com/products/mariana-maxi-dress-black",
+            "price":"10.00"
+        },
+        {
+            "name":"More Than A Chase Leopard Maxi Dress - Brown",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-31-19_Studio_1_DV_KYS_14-09-53_3__WD10006_Brown_3634_JK_360x.jpg?v=1572647936",
+            "productUrl":"https://www.fashionnova.com/products/more-than-a-chase-leopard-maxi-dress-brown",
+            "price":"44.99"
+        },
+        {
+            "name":"Erin Ribbed Cami Mini Dress - Taupe",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-21-22Studio4_ME_DJ_13-14-35_36_RD44721A_Taupe_0091_JB_360x.jpg?v=1663798296",
+            "productUrl":"https://www.fashionnova.com/products/erin-ribbed-cami-mini-dress-taupe",
+            "price":"6.00"
+        },
+        {
+            "name":"Rachel Racerback Midi Dress - Red",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-05-22Studio2_DM_OS_14-31-10_45_DX5737_Red_4688_JB_360x.jpg?v=1659988056",
+            "productUrl":"https://www.fashionnova.com/products/rachel-racerback-midi-dress-red",
+            "price":"12.00"
+        },
+        {
+            "name":"You're The One Faux Leather Mini Dress - Rust",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/02-26-21Studio2_SN_SD_13-37-27_25_D7258_Rust_P_15518_NT_360x.jpg?v=1655772132",
+            "productUrl":"https://www.fashionnova.com/products/youre-the-one-faux-leather-mini-dress-rust",
+            "price":"34.99"
+        },
+        {
+            "name":"Body Moves Midi Dress - Brown Leopard",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-12-18_Studio_1_11-54-58_JD19788AP_Leopard_6935_JF_3245888b-2b42-4247-8547-9a3aa247b604_360x.jpg?v=1632515038",
+            "productUrl":"https://www.fashionnova.com/products/body-moves-midi-dress-brown-leopard",
+            "price":"19.99"
+        },
+        {
+            "name":"Cierra Sweater Midi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/CierraSweaterMidiDress-Black_MER_360x.jpg?v=1637019035",
+            "productUrl":"https://www.fashionnova.com/products/cierra-sweater-midi-dress-black",
+            "price":"29.99"
+        },
+        {
+            "name":"There For You Sweater Midi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-18-21Studio2_MS_RB_11-13-19_34_RDAC9491FN_Black_11984_KL_360x.jpg?v=1629489093",
+            "productUrl":"https://www.fashionnova.com/products/there-for-you-sweater-midi-dress-black",
+            "price":"29.99"
+        },
+        {
+            "name":"You're Mine Sweater Mini Dress - Ivory",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/06-29-22Studio2_RT_RL_11-06-00_31_SK0663_Ivory_CC_3614_JF_JB_360x.jpg?v=1657062990",
+            "productUrl":"https://www.fashionnova.com/products/youre-mine-sweater-mini-dress-ivory",
+            "price":"49.99"
+        },
+        {
+            "name":"Kristi Satin Mini Dress - Pink",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-25-22_HOMECOMING_RT_10-52-42_6_MF21171_Pink_M3515_Black_19611_ES_WG_WG_360x.jpg?v=1661882318",
+            "productUrl":"https://www.fashionnova.com/products/kristi-satin-mini-dress-pink",
+            "price":"79.99"
+        },
+        {
+            "name":"There For You Sweater Midi Dress - Green",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-16-21Studio2_SN_KP_13-20-17_54_RDAC9491FN_Green_10890_DC_360x.jpg?v=1629410584",
+            "productUrl":"https://www.fashionnova.com/products/there-for-you-sweater-midi-dress-green",
+            "price":"29.99"
+        },
+        {
+            "name":"Classic Bandage Midi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/11-24-21Studio2_SN_KP_13-56-56_30_AD5943_Black_4182_EH_360x.jpg?v=1637796350",
+            "productUrl":"https://www.fashionnova.com/products/classic-bandage-midi-dress-black",
+            "price":"59.99"
+        },
+        {
+            "name":"One of the Boys Dress - Nude",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/OneoftheBoysDress-Nude_MER_360x.jpg?v=1654652789",
+            "productUrl":"https://www.fashionnova.com/products/one-of-the-boys-dress-nude",
+            "price":"14.99"
+        },
+        {
+            "name":"Magical Gal Midi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-30-19_Studio_1_DV_OM_15-15-24_21__RDX2030_Black_3837_NT_360x.jpg?v=1579280074",
+            "productUrl":"https://www.fashionnova.com/products/magical-gal-midi-dress-black",
+            "price":"34.99"
+        },
+        {
+            "name":"Show Some Sass Sweater Dress - Hunter Green",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/11-20-18_Studio_2_11-16-20_RD33874L_Hunter_CC_14828_CC_AG_360x.jpg?v=1642810035",
+            "productUrl":"https://www.fashionnova.com/products/show-some-sass-sweater-dress-hunter-green",
+            "price":"24.99"
+        },
+        {
+            "name":"Portrait Of Our Love Dress - Burgundy Combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/12-21-18_Studio_2_14-19-27_D7134_Burgundycombo0422_AJ_360x.jpg?v=1571439928",
+            "productUrl":"https://www.fashionnova.com/products/portrait-of-our-love-dress-burgundy-combo",
+            "price":"24.99"
+        },
+        {
+            "name":"A Little Bossy Midi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-02-19_Studio_2_RM_LE_11-18-34_18__RD63619_Black_35348_JD_360x.jpg?v=1598039587",
+            "productUrl":"https://www.fashionnova.com/products/a-little-bossy-midi-dress-black",
+            "price":"14.00"
+        },
+        {
+            "name":"Julianna Midi Dress - Olive",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-15-22Studio5_RM_AC_14-04-38_27_DB2761_Olive_2445_ES_360x.jpg?v=1663286746",
+            "productUrl":"https://www.fashionnova.com/products/julianna-midi-dress-olive",
+            "price":"10.00"
+        },
+        {
+            "name":"Mandy Ruched Midi Dress - Mustard",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/03-31-22Studio4_RM_CP_14-32-11_44_FS21F888_Mustard_0055_KL_360x.jpg?v=1649260742",
+            "productUrl":"https://www.fashionnova.com/products/mandy-ruched-midi-dress-mustard",
+            "price":"29.99"
+        },
+        {
+            "name":"Kallan Knit Dress - Orange",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-27-22FallLayers_CE_10-12-21_LOOK_8_30011_WG_MH_360x.jpg?v=1665623758",
+            "productUrl":"https://www.fashionnova.com/products/kallan-knit-dress-orange",
+            "price":"24.00"
+        },
+        {
+            "name":"Mercedes Bandage Mini Dress - Green",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-18-22Studio2_RM_14-55-16_23_C2571D_Green_4474_KS_360x.jpg?v=1660947293",
+            "productUrl":"https://www.fashionnova.com/products/mercedes-bandage-mini-dress-green",
+            "price":"59.99"
+        },
+        {
+            "name":"Just Between Us Sweater Dress - Camel",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/JustBetweenUsSweaterDress-Camel_MER_360x.jpg?v=1638391081",
+            "productUrl":"https://www.fashionnova.com/products/just-between-us-sweater-dress-camel",
+            "price":"24.00"
+        },
+        {
+            "name":"Anaisa Sweater Mini Dress - Sage",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-20-21Studio2_SN_RL_11-33-37_35_DGI3941_Sage_1637_EH_360x.jpg?v=1632261076",
+            "productUrl":"https://www.fashionnova.com/products/anaisa-sweater-mini-dress33-sage",
+            "price":"29.99"
+        },
+        {
+            "name":"Another Day Midi Sweater Dress - Burgundy",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/AnotherDayMidiSweaterDress-Burgundy_MER_360x.jpg?v=1633562411",
+            "productUrl":"https://www.fashionnova.com/products/another-day-midi-sweater-dress-burgundy",
+            "price":"59.99"
+        },
+        {
+            "name":"Jessica Belted Sweater Maxi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-21-20Studio2_BB_SD_15-13-54_46_MD5959A_Black_1694_RA_360x.jpg?v=1603383356",
+            "productUrl":"https://www.fashionnova.com/products/jessica-belted-sweater-maxi-dress-black",
+            "price":"49.99"
+        },
+        {
+            "name":"Coming In Ruched Maxi Dress - Orange",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/ComingInRuchedMaxiDress-Orange_MER_abcf6f37-7ef7-4764-9372-6403a5241209_360x.jpg?v=1622160866",
+            "productUrl":"https://www.fashionnova.com/products/coming-in-ruched-maxi-dress-orange",
+            "price":"34.99"
+        },
+        {
+            "name":"Freaking Rich T-Shirt Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-02-22Studio3_CE_RL_13-48-54_23_FNZD2830N_Black_P_0202_JB_360x.jpg?v=1662486349",
+            "productUrl":"https://www.fashionnova.com/products/freaking-rich-t-shirt-dress-black",
+            "price":"24.99"
+        },
+        {
+            "name":"Always Know Sweater Midi Dress - Teal/combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-06-22Studio4_KJ_IM_13-55-41_34_SW826922FN_Tealcombo_11205_SG_360x.jpg?v=1662508074",
+            "productUrl":"https://www.fashionnova.com/products/always-know-sweater-midi-dress-teal-combo",
+            "price":"59.99"
+        },
+        {
+            "name":"Sarabeth Sweater Mini Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/SarabethSweaterMiniDress-Black_MER_360x.jpg?v=1666806106",
+            "productUrl":"https://www.fashionnova.com/products/sarabeth-sweater-mini-dress-black",
+            "price":"29.99"
+        },
+        {
+            "name":"Mulberry Street Maxi Dress - Rust",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-29-22Studio3_RT_AC_14-24-35_12_RD5930_Rust_P_0043_PB_360x.jpg?v=1661874150",
+            "productUrl":"https://www.fashionnova.com/products/mulberry-street-maxi-dress-rust",
+            "price":"16.00"
+        },
+        {
+            "name":"Shape Shifting Velvet Midi Dress - Navy/Taupe",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/12-05-19_Studio_1_RM_KS_10-50-04_4__D2680FN_NavyCombo_3661_JK_360x.jpg?v=1579916565",
+            "productUrl":"https://www.fashionnova.com/products/shape-shifting-velvet-midi-dress-navy-taupe",
+            "price":"39.99"
+        },
+        {
+            "name":"For The Thrill Of It Midi Dress - Mustard",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/11-17-21Studio2_RT_TB_11-13-26_16_RD33316L_Mustard_1969_PB_360x.jpg?v=1637349947",
+            "productUrl":"https://www.fashionnova.com/products/for-the-thrill-of-it-midi-dress-mustard",
+            "price":"12.00"
+        },
+        {
+            "name":"Sheer Goes Nothing Mini Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-07-20Studio4_CE_TB_15-16-41_62_FS21A969_Black_52999_NT_360x.jpg?v=1602118279",
+            "productUrl":"https://www.fashionnova.com/products/sheer-goes-nothing-mini-dress-black",
+            "price":"29.99"
+        },
+        {
+            "name":"Taryn Sweater Midi Dress - Mocha",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/11-02-21_BLACK_FRIDAY_EDITORIAL_CE_15-17-38_Look8_13357_PB_MH_360x.jpg?v=1636655647",
+            "productUrl":"https://www.fashionnova.com/products/taryn-sweater-midi-dress-mocha",
+            "price":"24.99"
+        },
+        {
+            "name":"Catrina Collared Midi Dress - Olive",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-19-22Studio1_KJ_IM_CG_13-59-11_24_RD47671L_Olive_P_4909_PB_360x.jpg?v=1666303351",
+            "productUrl":"https://www.fashionnova.com/products/catrina-collared-midi-dress-olive",
+            "price":"12.00"
+        },
+        {
+            "name":"Motor Babe Midi Dress - Black/combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-12-22Studio3_KJ_AC_13-48-32_30_D29633_Blackcombo_0456_JB_360x.jpg?v=1665682772",
+            "productUrl":"https://www.fashionnova.com/products/motor-babe-midi-dress-black-combo",
+            "price":"29.99"
+        },
+        {
+            "name":"Emily Tweed Blazer Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-13-22Studio3_ME_IM_15-14-11_55_PJ70062FN_Black_3584_ES_360x.jpg?v=1663112556",
+            "productUrl":"https://www.fashionnova.com/products/emily-tweed-blazer-dress-black",
+            "price":"59.99"
+        },
+        {
+            "name":"Never Ending Night Maxi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/NeverEndingNightMaxiDress-Black_MER_360x.jpg?v=1586479081",
+            "productUrl":"https://www.fashionnova.com/products/never-ending-night-maxi-dress-black",
+            "price":"49.99"
+        },
+        {
+            "name":"Alexi Velvet Maxi Dress - Burgundy/combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-04-22Studio7_SN_KP_11-48-02_47_DR1218_Burgundycombo_7512_EH_360x.jpg?v=1664920555",
+            "productUrl":"https://www.fashionnova.com/products/alexi-velvet-maxi-gown-burgundy-combo",
+            "price":"59.99"
+        },
+        {
+            "name":"Grand Entrance Maxi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/05-04-22Studio2_CE_DJ_14-04-57_52_FD40220_Black_1617_SG_360x.jpg?v=1652225383",
+            "productUrl":"https://www.fashionnova.com/products/grand-entrance-maxi-dress-black",
+            "price":"59.99"
+        },
+        {
+            "name":"Gia Mini Dress - Bronze",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-21-22Studio2_MS_RL_14-36-51_30_D5113_Bronze_2141_KS_360x.jpg?v=1666631979",
+            "productUrl":"https://www.fashionnova.com/products/gia-mini-dress-bronze",
+            "price":"39.99"
+        },
+        {
+            "name":"Aaliyah Sweater Mini Dress - Pink/combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-11-22Studio4_TH_DJ_09-35-41_3_MD8070_Pinkcombo_0977_ES_360x.jpg?v=1665510641",
+            "productUrl":"https://www.fashionnova.com/products/aaliyah-sweater-mini-dress-pink-combo",
+            "price":"39.99"
+        },
+        {
+            "name":"My Man And Me Ruched Midi Dress - White",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/3-19-20Studio4_MA_CP_11-20-20_23_D1159_White_8128_RG_360x.jpg?v=1605828583",
+            "productUrl":"https://www.fashionnova.com/products/my-man-and-me-ruched-midi-dress-white",
+            "price":"34.99"
+        },
+        {
+            "name":"Bella Off Shoulder Sweater Dress - Ivory",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/BellaOffShoulderSweaterDress-Ivory_MER_360x.png?v=1638385630",
+            "productUrl":"https://www.fashionnova.com/products/bella-off-shoulder-sweater-dress-ivory-1",
+            "price":"24.99"
+        },
+        {
+            "name":"Moments After Sweater Midi Dress - Red",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-16-21Studio2_SN_KP_13-22-02_55_RDAD2520FN_Red_10897_DC_360x.jpg?v=1629410617",
+            "productUrl":"https://www.fashionnova.com/products/moments-after-sweater-midi-dress-red",
+            "price":"29.99"
+        },
+        {
+            "name":"Zaria Maxi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-14-22Studio4_ME_KP_10-53-28_15_JD48420L_Black_14809_PB_360x.jpg?v=1663190531",
+            "productUrl":"https://www.fashionnova.com/products/zaria-maxi-dress-black",
+            "price":"10.00"
+        },
+        {
+            "name":"Life Is A Dream Sweater Maxi Dress - Cognac",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-10-22Studio2_SN_RA_13-35-06_31_ID5160_Cognac_1193_JB_360x.jpg?v=1660336697",
+            "productUrl":"https://www.fashionnova.com/products/life-is-a-dream-sweater-maxi-dress-cognac",
+            "price":"54.99"
+        },
+        {
+            "name":"Annabelle Sweater Mini Dress - Cream",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/01-18-21Studio2_MS_SD_14-16-37_42_YLD4005FN_Cream_14514_WG_360x.jpg?v=1658794648",
+            "productUrl":"https://www.fashionnova.com/products/annabelle-sweater-mini-dress-cream",
+            "price":"39.99"
+        },
+        {
+            "name":"Make It Sexy Faux Leather Midi Dress - Brown",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/MakeItSexyFauxLeatherMidiDress-Brown_MER_3_360x.jpg?v=1633464577",
+            "productUrl":"https://www.fashionnova.com/products/make-it-sexy-faux-leather-midi-dress-brown",
+            "price":"34.99"
+        },
+        {
+            "name":"Kallan Striped Knit Dress - Purple/combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-01-22Studio4_KJ_IM_10-18-08_11_ZD21449S1_Purplecombo_P_9335_PB_360x.jpg?v=1662076481",
+            "productUrl":"https://www.fashionnova.com/products/kallan-striped-knit-dress-purple-combo",
+            "price":"39.99"
+        },
+        {
+            "name":"Julianna Tulle Maxi Dress - Mauve",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-05-22Studio7_MS_ALEX_15-26-26_38_HMD13545_Mauve_7988_EH_360x.jpg?v=1665016113",
+            "productUrl":"https://www.fashionnova.com/products/julianna-tulle-maxi-dress-mauve",
+            "price":"39.99"
+        },
+        {
+            "name":"Sarabeth Sweater Mini Dress - Nude",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/SarabethSweaterMiniDress-Nude_MER_360x.jpg?v=1639778317",
+            "productUrl":"https://www.fashionnova.com/products/sarabeth-sweater-mini-dress-nude",
+            "price":"29.99"
+        },
+        {
+            "name":"Caught Looking Sweater Midi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/CaughtLookingSweaterMidiDress-Black_MER_d88d24ce-ea5c-4258-9205-ef3961c4f37a_360x.jpg?v=1621899610",
+            "productUrl":"https://www.fashionnova.com/products/caught-looking-sweater-midi-dress-black",
+            "price":"34.99"
+        },
+        {
+            "name":"Akira Midi Dress - Hunter",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-10-22Studio2_SN_RA_10-36-40_16_D8301_Hunter_1039_SG_360x.jpg?v=1660331853",
+            "productUrl":"https://www.fashionnova.com/products/akira-midi-dress-hunter",
+            "price":"34.99"
+        },
+        {
+            "name":"Bossing Around Mini Blazer Dress - Ivory",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/BossingAroundMiniBlazerDress-Ivory_MER_360x.jpg?v=1648164764",
+            "productUrl":"https://www.fashionnova.com/products/bossing-around-mini-blazer-dress-ivory",
+            "price":"49.99"
+        },
+        {
+            "name":"Luxurious Outings Bandage Mini Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/06-09-22Studio5_CE_RL_14-06-22_15_GWZ354_Black_P_25723_EH_360x.jpg?v=1655130803",
+            "productUrl":"https://www.fashionnova.com/products/luxurious-outings-bandage-mini-dress-black",
+            "price":"139.99"
+        },
+        {
+            "name":"I Have Good Jeans Denim Mini Dress - Medium Wash",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/01-29-20_Studio_2_JP_LE_11-40-43_26__AH25A74_MediumWash_54255_KL_360x.jpg?v=1660772061",
+            "productUrl":"https://www.fashionnova.com/products/i-have-good-jeans-denim-mini-dress-medium-wash",
+            "price":"29.99"
+        },
+        {
+            "name":"Dinner Dates Mesh Midi Dress - White",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/06-07-22Studio4_CE_AC_10-40-34_2_MD7796_White_2405_JB_360x.jpg?v=1654640335",
+            "productUrl":"https://www.fashionnova.com/products/dinner-dates-mesh-midi-dress-white",
+            "price":"49.99"
+        },
+        {
+            "name":"Lacey Maxi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-23-22Studio2_KJ_RL_15-36-35_73_RD47224A_Black_P_0202_SG_360x.jpg?v=1661359789",
+            "productUrl":"https://www.fashionnova.com/products/lacey-maxi-dress-black",
+            "price":"14.00"
+        },
+        {
+            "name":"Becca Fringe Hooded Mini Dress - Heather Grey",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-14-22Studio6_DM_DJ_14-28-36_37_D3279_HeatherGrey_0792_EH_360x.jpg?v=1663197328",
+            "productUrl":"https://www.fashionnova.com/products/becca-fringe-hooded-mini-dress-heather-grey",
+            "price":"49.99"
+        },
+        {
+            "name":"Need You In My Life Ruched Midi Dress - Lavender",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/NeedYouInMyLifeRuchedMidiDress-Lavender_MER_360x.jpg?v=1628548287",
+            "productUrl":"https://www.fashionnova.com/products/need-you-in-my-life-ruched-midi-dress-lavender",
+            "price":"34.99"
+        },
+        {
+            "name":"Please Hold Midi Dress - Olive",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/06-07-22Studio2_ME_KP_14-14-39_9_D2899_Olive_0088_SG_360x.jpg?v=1654647208",
+            "productUrl":"https://www.fashionnova.com/products/please-hold-midi-dress-olive",
+            "price":"39.99"
+        },
+        {
+            "name":"Looking For The One Maxi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/06-12-19_Studio_1_DV_13-57-41_25__VID9158_Black_3592_JK_360x.jpg?v=1571441398",
+            "productUrl":"https://www.fashionnova.com/products/looking-for-the-one-maxi-dress-black",
+            "price":"49.99"
+        },
+        {
+            "name":"I Want More Sweater Mini Dress - Oatmeal",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-08-22Studio4_SN_DJ_11-47-44_27_J3H0207S_Oatmeal_12607_PB_360x.jpg?v=1662749909",
+            "productUrl":"https://www.fashionnova.com/products/i-want-more-sweater-mini-dress-oatmeal",
+            "price":"34.99"
+        },
+        {
+            "name":"In The Long Run Midi Dress - Burgundy",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-02-19_Studio_2_RM_LE_10-43-21_11__RD62330_Burgundy_P_35175_WG_360x.jpg?v=1643331434",
+            "productUrl":"https://www.fashionnova.com/products/in-the-long-run-midi-dress-burgundy",
+            "price":"20.00"
+        },
+        {
+            "name":"Don't Be Faux Real Sweater Midi Dress - Cream",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/Don_tBeFauxRealSweaterMidiDress-Cream_1__MER_360x.jpg?v=1639081345",
+            "productUrl":"https://www.fashionnova.com/products/dont-be-faux-real-sweater-midi-dress-cream",
+            "price":"79.99"
+        },
+        {
+            "name":"Phoebe Velvet Shirt Dress - Wine",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-28-21Studio2_SN_KP_14-00-10_69_D678VFN_Wine_2760_PB_360x.jpg?v=1637960202",
+            "productUrl":"https://www.fashionnova.com/products/phoebe-velvet-shirt-dress-wine",
+            "price":"44.99"
+        },
+        {
+            "name":"Kelly Sweater Midi Dress - Khaki",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-28-22Studio2_RM_AC_12-28-31_10_SW2748_Khaki_0442_JB_360x.jpg?v=1664397504",
+            "productUrl":"https://www.fashionnova.com/products/kelly-sweater-midi-dress-khaki",
+            "price":"59.99"
+        },
+        {
+            "name":"Catch Me Offline Sweater Dress - Light Blue",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/CatchMeOfflineSweaterDress-LightBlue_MER_360x.png?v=1659655952",
+            "productUrl":"https://www.fashionnova.com/products/catch-me-offline-sweater-dress-light-blue",
+            "price":"34.99"
+        },
+        {
+            "name":"Struck A Corduroy Mini Dress - Sand",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-25-22Studio1_RM_AC_11-19-34_14_FE22H326_Sand_0183_JB_360x.jpg?v=1661531747",
+            "productUrl":"https://www.fashionnova.com/products/struck-a-corduroy-mini-dress-sand",
+            "price":"39.99"
+        },
+        {
+            "name":"Raina T-Shirt Dress - Chocolate",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-10-22Studio2_TH_RA_13-56-02_17_DZ22G684_Chocolate_P_4523_JB_360x.jpg?v=1665445722",
+            "productUrl":"https://www.fashionnova.com/products/raina-t-shirt-dress-chocolate",
+            "price":"24.99"
+        },
+        {
+            "name":"Cassidy Satin Maxi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/04-26-22Studio2_SN_RL_11-53-03_45_MF21049_Black_P_0881_SG_360x.jpg?v=1651159317",
+            "productUrl":"https://www.fashionnova.com/products/cassidy-satin-maxi-dress-black",
+            "price":"69.99"
+        },
+        {
+            "name":"Mona Colorblock Sweater Midi Dress - Rust/combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/MonaColorblockSweaterMidiDress-Rustcombo_MER_360x.jpg?v=1645045023",
+            "productUrl":"https://www.fashionnova.com/products/mona-colorblock-sweater-midi-dress-rust-combo",
+            "price":"49.99"
+        },
+        {
+            "name":"Fall Into You Sweater Mini Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/07-21-21Studio2_ME_RL11-14-48_50_J3F0312S_Black_0033_WG_360x.jpg?v=1627063393",
+            "productUrl":"https://www.fashionnova.com/products/fall-into-you-sweater-mini-dress-black",
+            "price":"24.99"
+        },
+        {
+            "name":"Falling For You Velvet Maxi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/07-20-21Studio2_SN_TB_10-22-49_17_FNT137_Black_0034_EH_360x.jpg?v=1627425589",
+            "productUrl":"https://www.fashionnova.com/products/falling-for-you-velvet-maxi-dress-black",
+            "price":"64.99"
+        },
+        {
+            "name":"Ruched Everywhere Midi Dress - Brown",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/RuchedEverywhereMidiDress-Brown_MER_360x.jpg?v=1643655108",
+            "productUrl":"https://www.fashionnova.com/products/ruched-everywhere-midi-dress-brown",
+            "price":"49.99"
+        },
+        {
+            "name":"Fiery Passion Gloved Maxi Dress - Pink/combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-01-22Studio2_MS_13-24-52_24_D8240_Pinkcombo_1652_KS_360x.jpg?v=1659483423",
+            "productUrl":"https://www.fashionnova.com/products/fiery-passion-gloved-maxi-dress-pink-combo",
+            "price":"44.99"
+        },
+        {
+            "name":"Decaf Please Sweater Mini Dress - Mauve",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-02-22Studio4_KJ_IM_10-04-24_10_VID9765_Mauve_10014_JB_360x.jpg?v=1662148032",
+            "productUrl":"https://www.fashionnova.com/products/decaf-please-sweater-mini-dress-mauve",
+            "price":"44.99"
+        },
+        {
+            "name":"Celine Sequin Midi Dress - Red",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-13-22Studio3_ME_IM_11-15-25_21_D8336C_Red_3125_PB_360x.jpg?v=1663110525",
+            "productUrl":"https://www.fashionnova.com/products/celine-sequin-midi-dress-red",
+            "price":"49.99"
+        },
+        {
+            "name":"Run The Show Sequin Maxi Dress - Black/combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-25-22Studio7_ME_DJ_14-13-34_47_SJ626822FN_Blackcombo_1097_ES_360x.jpg?v=1661472565",
+            "productUrl":"https://www.fashionnova.com/products/run-the-show-sequin-maxi-dress-black-combo",
+            "price":"89.99"
+        },
+        {
+            "name":"Kelly Sweater Midi Dress - Charcoal",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-29-22Studio4_CE_KP_11-07-28_30_SW2748_Charcoal_2635_EH_360x.jpg?v=1664484420",
+            "productUrl":"https://www.fashionnova.com/products/kelly-sweater-midi-dress-charcoal",
+            "price":"59.99"
+        },
+        {
+            "name":"Elated Off The Shoulder Mini Dress - Brown",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/ElatedOffTheShoulderMiniDress-Brown_MER_360x.jpg?v=1642102539",
+            "productUrl":"https://www.fashionnova.com/products/elated-off-the-shoulder-mini-dress-brown",
+            "price":"39.99"
+        },
+        {
+            "name":"Kallan Knit Dress - Hunter Green",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-14-22Studio4_MS_IM_13-44-26_23_21449_Hunter_R_2853_PB_360x.jpg?v=1666046202",
+            "productUrl":"https://www.fashionnova.com/products/kallan-knit-dress-hunter-green",
+            "price":"24.00"
+        },
+        {
+            "name":"Josie Sweater Mini Dress - Off White",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-03-22Studio3_CE_RL_14-53-21_17_HM382FN_OffWhite_CC_25132_WG_360x.jpg?v=1659726874",
+            "productUrl":"https://www.fashionnova.com/products/josie-sweater-mini-dress-off-white",
+            "price":"44.99"
+        },
+        {
+            "name":"Feeling Fancy Collar Jacket - Mauve",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/02-15-19_MA_10-38-03_PG2168E_Mauve_3222_RG_360x.jpg?v=1602879322",
+            "productUrl":"https://www.fashionnova.com/products/feeling-fancy-collar-jacket-mauve",
+            "price":"39.99"
+        },
+        {
+            "name":"Make A Move Mock Neck Mini Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-14-22Studio7_ME_RL_14-19-53_39_RD72197_Black_1457__WG_360x.jpg?v=1666033517",
+            "productUrl":"https://www.fashionnova.com/products/make-a-move-mock-neck-mini-dress-black",
+            "price":"15.00"
+        },
+        {
+            "name":"Farrah Floral Maxi Dress - Olive/combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/02-09-22Studio3_CE_11-34-09_20_DM1885_Olivecombo_P_1069_SG_360x.jpg?v=1644523152",
+            "productUrl":"https://www.fashionnova.com/products/farrah-floral-maxi-dress-olive-combo",
+            "price":"39.99"
+        },
+        {
+            "name":"Kaelynn Metallic Midi Dress - Bronze",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/KaelynnMetallicMidiDress-Bronze_MER_360x.jpg?v=1654112552",
+            "productUrl":"https://www.fashionnova.com/products/kaelynn-metallic-midi-dress-bronze",
+            "price":"49.99"
+        },
+        {
+            "name":"Close Up Ready Sequin Maxi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/06-30-22Studio5_RT_RL_11-11-44_3_1013AP25_Black_P_2758_JB_360x.jpg?v=1656695364",
+            "productUrl":"https://www.fashionnova.com/products/close-up-ready-sequin-maxi-dress-black",
+            "price":"89.99"
+        },
+        {
+            "name":"MaryAnne Sequin Midi Dress - Nude",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/02-11-21Studio2_PN_SD_15-27-29_50_DR1670MD_Nude_6711_KL_360x.jpg?v=1613091108",
+            "productUrl":"https://www.fashionnova.com/products/maryanne-sequin-midi-dress-nude",
+            "price":"44.99"
+        },
+        {
+            "name":"Lacey Maxi Dress - Taupe",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-24-22Studio2_MS_Rene_14-25-39_21_RD47224A_Taupe_P_0380_PB_360x.jpg?v=1661466216",
+            "productUrl":"https://www.fashionnova.com/products/lacey-maxi-dress-taupe",
+            "price":"14.00"
+        },
+        {
+            "name":"Pearls Are Everything Sweater Mini Dress - Light Blue",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/11-19-19_Studio_3_RM_JJ_11-15-05_20__NC005_Blue_0537_RG_360x.jpg?v=1660851888",
+            "productUrl":"https://www.fashionnova.com/products/pearls-are-everything-sweater-mini-dress-light-blue",
+            "price":"39.99"
+        },
+        {
+            "name":"Full Grown Knot Dress - Blush",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/02-07-19_Studio_1_AB_10-51-31_D22102_Blush_0854_RG_JK_360x.jpg?v=1579893526",
+            "productUrl":"https://www.fashionnova.com/products/full-grown-knot-dress-blush",
+            "price":"29.99"
+        },
+        {
+            "name":"Luminous Sequin Velvet Maxi Dress - Royal",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/07-16-21Studio2_SN_TB_11-09-15_29_BCCDQ22991_Royal_0426_EH_360x.jpg?v=1626817740",
+            "productUrl":"https://www.fashionnova.com/products/luminous-sequin-velvet-maxi-dress-royal",
+            "price":"79.99"
+        },
+        {
+            "name":"Got It Like that Bandage Midi Dress - Orange",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-07-22Studio4_DD_KP_11-19-31_28_WR5045_Orange_11873_PB_360x.jpg?v=1666122550",
+            "productUrl":"https://www.fashionnova.com/products/got-it-like-that-bandage-midi-dress-orange",
+            "price":"69.99"
+        },
+        {
+            "name":"Roxy Ribbed Mini Dress - Mauve",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-15-22Studio2_CE_RL_11-10-07_7_HD18451_Mauve_P_0844_PB_360x.jpg?v=1663287953",
+            "productUrl":"https://www.fashionnova.com/products/roxy-ribbed-mini-dress-mauve",
+            "price":"19.99"
+        },
+        {
+            "name":"Jaime Midi Dress - Rust",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-03-22Studio4_KS_KP_09-30-41_9_CRD1209L_Rust_3617_PB_360x.jpg?v=1664908958",
+            "productUrl":"https://www.fashionnova.com/products/jaime-midi-dress-rust",
+            "price":"20.00"
+        },
+        {
+            "name":"Until The Weekend Sequin Maxi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/06-09-22Studio5_CE_RL_15-04-30_34_1013AP8_Black_P_1480_SG_360x.jpg?v=1655132965",
+            "productUrl":"https://www.fashionnova.com/products/until-the-weekend-sequin-maxi-dress-black",
+            "price":"89.99"
+        },
+        {
+            "name":"Higher Up Mini Dress - Blue",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-31-21Studio2_SN_KP_13-38-09_23_JD45212L_Blue_0201_KL_360x.jpg?v=1665510152",
+            "productUrl":"https://www.fashionnova.com/products/higher-up-mini-dress-blue",
+            "price":"10.00"
+        },
+        {
+            "name":"Sculpted Ribbed Mini Dress - Rust",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/06-22-20Studio2_MS_SD_11-18-26_24_4530DY_Rust_0277_JK_360x.jpg?v=1658508856",
+            "productUrl":"https://www.fashionnova.com/products/sculpted-ribbed-mini-dress-rust",
+            "price":"14.99"
+        },
+        {
+            "name":"Trust Fund Please Mini Dress - White",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/TrustFundPleaseMiniDress-White_MER_360x.jpg?v=1640720098",
+            "productUrl":"https://www.fashionnova.com/products/trust-fund-please-mini-dress-white",
+            "price":"69.99"
+        },
+        {
+            "name":"Just In Time Striped Midi Dress - Taupe/combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-09-22Studio4_CE__09-35-40_6_J3H0447S_Taupecombo_12956_ES_360x.jpg?v=1662759398",
+            "productUrl":"https://www.fashionnova.com/products/just-in-time-striped-midi-dress-taupe-combo",
+            "price":"34.99"
+        },
+        {
+            "name":"Check It Up Printed Mini Dress - Chocolate",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/CheckItUpPrintedMiniDress-Chocolate_1__MER_360x.jpg?v=1624906047",
+            "productUrl":"https://www.fashionnova.com/products/check-it-up-printed-mini-dress-chocolate",
+            "price":"9.99"
+        },
+        {
+            "name":"Raven Mini Dress - Brown",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/03-21-22Studio4_CE_RL_12-09-43_40_73290_Brown_5644_KL_360x.jpg?v=1658881308",
+            "productUrl":"https://www.fashionnova.com/products/raven-mini-dress-brown",
+            "price":"7.00"
+        },
+        {
+            "name":"The New Comfort Tie Dye Maxi Dress - Burgundy",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/07-06-20Studio1_JP_DJ_15-04-08_6_AD8275_Burgundy_3626_JK_360x.jpg?v=1594078280",
+            "productUrl":"https://www.fashionnova.com/products/the-new-comfort-tie-dye-maxi-dress-burgundy",
+            "price":"34.99"
+        },
+        {
+            "name":"Best Behavior Mini Dress - Red",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/11-05-19_Studio_2_OD_LE_14-38-49_17__IBD96540N_Red_P_3355_RA_360x.jpg?v=1642618913",
+            "productUrl":"https://www.fashionnova.com/products/best-behavior-mini-dress-red",
+            "price":"34.99"
+        },
+        {
+            "name":"Ready For Knit Sweater Mini Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/12-03-20Studio2_RM_SD_10-56-38_18_DGI2135_Black_9407_KL_360x.jpg?v=1607717471",
+            "productUrl":"https://www.fashionnova.com/products/ready-for-knit-sweater-mini-dress-black",
+            "price":"24.99"
+        },
+        {
+            "name":"Cindy Mini Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/07-15-22Studio2_MS_11-09-47_18_D52094_Black_1768_EH_360x.jpg?v=1657932320",
+            "productUrl":"https://www.fashionnova.com/products/cindy-mini-dress-black",
+            "price":"39.99"
+        },
+        {
+            "name":"Daring Darling Maxi Dress - Hot Pink",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/07-12-22Studio6_DN_RL_13-09-18_37_DR2482_HotPink_P_4750_PB_360x.jpg?v=1657665290",
+            "productUrl":"https://www.fashionnova.com/products/daring-darling-maxi-dress-hot-pink",
+            "price":"59.99"
+        },
+        {
+            "name":"Twerkin' And Workin' Stripe Dress - White",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/04-10-18_Studio1_D7024_White_0121.JPG?v=1571438874",
+            "productUrl":"https://www.fashionnova.com/products/twerkin-and-workin-stripe-dress-white",
+            "price":"24.99"
+        },
+        {
+            "name":"Close Up Ready Sequin Maxi Dress - Mauve",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/06-28-22Studio1_CE_KP_13-52-16_67_1013AP25_Mauve_P_2216_EH_360x.jpg?v=1656514744",
+            "productUrl":"https://www.fashionnova.com/products/close-up-ready-sequin-maxi-dress-mauve",
+            "price":"89.99"
+        },
+        {
+            "name":"Allure Me Sequin Maxi Dress  - Champagne",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/06-28-22Studio1_CE_KP_10-06-56_8_2065FN_Champagne_P_1526_SG_360x.jpg?v=1656444218",
+            "productUrl":"https://www.fashionnova.com/products/allure-me-sequin-maxi-dress-champagne",
+            "price":"79.99"
+        },
+        {
+            "name":"Feeling My Mesh Dress - Nude",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/06-12-18_Studio1_72065_Nude_1322_AJ_JF_360x.jpg?v=1571439146",
+            "productUrl":"https://www.fashionnova.com/products/feeling-my-mesh-dress-nude",
+            "price":"34.99"
+        },
+        {
+            "name":"Mara Off Shoulder Maxi Dress - Light Blue",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/MaraOffShoulderMaxiDress-LightBlue_MER_360x.jpg?v=1652833806",
+            "productUrl":"https://www.fashionnova.com/products/mara-off-shoulder-maxi-dress-light-blue",
+            "price":"19.99"
+        },
+        {
+            "name":"Reena Ribbed Midi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-15-22Studio3_ME_KP_09-46-33_3_RD48432L_Black_0197_SG_360x.jpg?v=1663279432",
+            "productUrl":"https://www.fashionnova.com/products/reena-ribbed-midi-dress-black",
+            "price":"10.00"
+        },
+        {
+            "name":"Steph Sweater Mini Dress - Ivory",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/StephSweaterMiniDress-Ivory_MER_360x.jpg?v=1610591137",
+            "productUrl":"https://www.fashionnova.com/products/steph-sweater-mini-dress-ivory",
+            "price":"39.99"
+        },
+        {
+            "name":"Oh You Fancy Sweater Mini Dress - Taupe",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/OhYouFancySweaterMiniDress-Taupe_MER_2_360x.jpg?v=1637613979",
+            "productUrl":"https://www.fashionnova.com/products/oh-you-fancy-sweater-mini-dress-taupe",
+            "price":"39.99"
+        },
+        {
+            "name":"Fall In Love Sweater Mini Dress - Black/combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-14-22Studio4_ME_KP_11-44-02_23_RDAE4841FN_Blackcombo_14900_ES_360x.jpg?v=1663190794",
+            "productUrl":"https://www.fashionnova.com/products/fall-in-love-sweater-mini-dress-black-combo",
+            "price":"29.99"
+        },
+        {
+            "name":"Avita Satin Shirt Dress - Black/combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-22-21Studio2_JP_DJ_13-52-31_68_DM2339_Blackcombo_0840_PB_360x.jpg?v=1663793856",
+            "productUrl":"https://www.fashionnova.com/products/avita-satin-shirt-dress-black-combo",
+            "price":"49.99"
+        },
+        {
+            "name":"Shanghai Ruched Dress - Burgundy",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/Fashion_Nova_06-06-17-934_360x.jpg?v=1654720897",
+            "productUrl":"https://www.fashionnova.com/products/shanghai-ruched-dress-burgundy",
+            "price":"14.00"
+        },
+        {
+            "name":"Sandie Sweatshirt Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-26-22Studio2_TH_13-40-31_6_CFD1357LA_Black_R_4097_JB_360x.jpg?v=1666893119",
+            "productUrl":"https://www.fashionnova.com/products/sandie-sweatshirt-dress-black",
+            "price":"24.99"
+        },
+        {
+            "name":"A Careless Night Midi Dress - Red",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/06-24-21Studio2_SN_RL_12-17-29_46_VD6963_Red_2352_RG_360x.jpg?v=1641938156",
+            "productUrl":"https://www.fashionnova.com/products/a-careless-night-midi-dress-red",
+            "price":"34.99"
+        },
+        {
+            "name":"No Cuts Given Bandage Midi Dress - Brown",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/NoCutsGivenBandageMidiDress-Brown_MER_360x.jpg?v=1635188011",
+            "productUrl":"https://www.fashionnova.com/products/no-cuts-given-bandage-midi-dress-brown",
+            "price":"49.99"
+        },
+        {
+            "name":"Thriving With You Sequin Midi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/11-22-21Studio2_KS_KP_13-07-55_53_74154C_Black_3429_KL_360x.jpg?v=1637776862",
+            "productUrl":"https://www.fashionnova.com/products/thriving-with-you-sequin-midi-dress-black",
+            "price":"69.99"
+        },
+        {
+            "name":"Tainted Love Velvet Mini Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/TaintedLoveVelvetMiniDress-Black_MER_e6b495df-64ee-4654-bb1f-c89b2897892b_360x.jpg?v=1645581383",
+            "productUrl":"https://www.fashionnova.com/products/tainted-love-velvet-mini-dress-black",
+            "price":"39.99"
+        },
+        {
+            "name":"Places To Be Plaid Mini Dress - Taupe/combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-01-22Studio4_KJ_IM_10-49-18_20_J3H0436S_Taupecombo_9507_ES_360x.jpg?v=1662134948",
+            "productUrl":"https://www.fashionnova.com/products/places-to-be-plaid-midi-dress-taupe-combo",
+            "price":"34.99"
+        },
+        {
+            "name":"You Know What I Want Midi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-14-20Studio2_RM_ON_12-12-31_25_JD41169L_Black_8270_KL_360x.jpg?v=1600121315",
+            "productUrl":"https://www.fashionnova.com/products/you-know-what-i-want-midi-dress-black",
+            "price":"12.00"
+        },
+        {
+            "name":"Look At Me Hooded Mini Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-01-19_Studio_2_MA_LE_10-18-09_9_RD62521_Black_33841_NT_360x.jpg?v=1571441708",
+            "productUrl":"https://www.fashionnova.com/products/look-at-me-hooded-mini-dress-black",
+            "price":"14.00"
+        },
+        {
+            "name":"Fancy This Satin Maxi Dress - Marsala",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/06-07-22Studio2_ME_KP_14-50-18_19_MD8006_Marsala_0082_PB_360x.jpg?v=1654648006",
+            "productUrl":"https://www.fashionnova.com/products/fancy-this-satin-maxi-dress-marsala",
+            "price":"69.99"
+        },
+        {
+            "name":"Places To Be Plaid Mini Dress - Red/Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-13-22Studio3_ME_IM_11-23-57_22_J3H0436S_RedBlack_3152_PB_360x.jpg?v=1663110657",
+            "productUrl":"https://www.fashionnova.com/products/places-to-be-plaid-midi-dress-red-black",
+            "price":"34.99"
+        },
+        {
+            "name":"Higher Up Mini Dress - Burgundy",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-02-21Studio2_RM_KP_12-54-31_49_JD45212L_Burgundy_1455_PB_360x.jpg?v=1665510160",
+            "productUrl":"https://www.fashionnova.com/products/higher-up-mini-dress-burgundy",
+            "price":"10.00"
+        },
+        {
+            "name":"Sharon Sequin Maxi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-25-22Studio7_ME_DJ_15-54-18_73_2078D_Black_1382_EH_360x.jpg?v=1661471011",
+            "productUrl":"https://www.fashionnova.com/products/sharon-sequin-maxi-dress-black",
+            "price":"59.99"
+        },
+        {
+            "name":"Autumn Falls Sweater Mini Dress - Olive/combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-01-21Studio2_SN_KP_11-02-14_29_RDAD5390FN_Olivecombo_4125_EH_360x.jpg?v=1665506628",
+            "productUrl":"https://www.fashionnova.com/products/autumn-falls-sweater-mini-dress-olive-combo",
+            "price":"29.99"
+        },
+        {
+            "name":"Vivian Turtleneck Mini Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/07-15-22Studio2_MS_15-28-46_46_72422_Black_2067_EH_360x.jpg?v=1657933921",
+            "productUrl":"https://www.fashionnova.com/products/vivian-turtleneck-mini-dress-black",
+            "price":"10.00"
+        },
+        {
+            "name":"Keep It Classy Bandage Maxi Dress - Red",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/KeepItClassyBandageMaxiDress-Red_MER_360x.jpg?v=1666902553",
+            "productUrl":"https://www.fashionnova.com/products/keep-it-classy-bandage-maxi-dress-red",
+            "price":"69.99"
+        },
+        {
+            "name":"Happy Hour Feels Midi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-16-20Studio2_RM_RS_14-05-54_37_RD41168L_Black_0781_WG_360x.jpg?v=1600302679",
+            "productUrl":"https://www.fashionnova.com/products/happy-hour-feels-midi-dress-black",
+            "price":"15.00"
+        },
+        {
+            "name":"Cut It Midi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-08-22Studio4_SN_RL_10-09-40_4_J3H0285S_Black_12367_KS_360x.jpg?v=1662752316",
+            "productUrl":"https://www.fashionnova.com/products/cut-it-midi-dress-black",
+            "price":"24.99"
+        },
+        {
+            "name":"Tainted Love Satin Mini Dress - Brown",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/06-03-21Studio2_ME_KP_10-04-06_17_DWDR21252ST_Brown_1143_EH_360x.jpg?v=1658794628",
+            "productUrl":"https://www.fashionnova.com/products/tainted-love-satin-mini-dress-brown",
+            "price":"44.99"
+        },
+        {
+            "name":"Isabelle Halter Midi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/02-04-22Studio3_KS_KP_12-13-34_54_73430_Black_0027_KL_360x.jpg?v=1644367510",
+            "productUrl":"https://www.fashionnova.com/products/isabelle-halter-midi-dress-black",
+            "price":"7.00"
+        },
+        {
+            "name":"American Rider Midi Dress - Slate Blue",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-03-22Studio4_KS_KP_10-45-00_32_D4376FN_SlateBlue_3829_ES_360x.jpg?v=1664922416",
+            "productUrl":"https://www.fashionnova.com/products/american-rider-midi-dress-slate-blue",
+            "price":"24.99"
+        },
+        {
+            "name":"Black Tie Affair Midi Dress - Black/White",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/BlackTieAffairMidiDress-Black_White_MER_360x.jpg?v=1629223727",
+            "productUrl":"https://www.fashionnova.com/products/black-tie-affair-midi-dress-black-white",
+            "price":"34.99"
+        },
+        {
+            "name":"Cozy Cool Sweater Mini Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/CozyCoolSweaterMiniDress-Black_MER_360x.png?v=1635290407",
+            "productUrl":"https://www.fashionnova.com/products/cozy-cool-sweater-mini-dress-black",
+            "price":"49.99"
+        },
+        {
+            "name":"Good As Always Tie Dye Midi Dress - Hot Pink/Combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/07-23-20Studio2_MS_SD_13-59-06_32_JD37155T13_HotPinkcombo_2345_JK_360x.jpg?v=1595544936",
+            "productUrl":"https://www.fashionnova.com/products/good-as-always-tie-dye-midi-dress-hot-pink-combo",
+            "price":"14.99"
+        },
+        {
+            "name":"Holy Slit Dress - Navy",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/HolySlitDress-NavyTaupe_MER_360x.jpg?v=1624407441",
+            "productUrl":"https://www.fashionnova.com/products/holy-slit-dress-navy",
+            "price":"39.99"
+        },
+        {
+            "name":"I'm Her Ribbed Midi Dress - Taupe/combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-14-22Studio4_ME_KP_10-35-17_12_J3H0389S_Taupecombo_14778_PB_360x.jpg?v=1663190429",
+            "productUrl":"https://www.fashionnova.com/products/im-her-ribbed-midi-dress-taupe-combo",
+            "price":"34.99"
+        },
+        {
+            "name":"Make A Scene Sequin Dress - Rose Gold",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/Fashion_Nova_08-23-17-535_360x.jpg?v=1571437971",
+            "productUrl":"https://www.fashionnova.com/products/make-a-scene-sequin-dress-rose-gold",
+            "price":"59.99"
+        },
+        {
+            "name":"Autumn Calls Sweater Midi Dress - Off White",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-25-22Studio2_KS_IM_15-31-01_40_RDAA6770FN_OffWhite_0098_JB_360x.jpg?v=1661529762",
+            "productUrl":"https://www.fashionnova.com/products/autumn-calls-sweater-midi-dress-off-white",
+            "price":"24.99"
+        },
+        {
+            "name":"Always Flexin' Velvet Leopard Midi Dress - Leopard",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-08-19_Studio_3_DV_LE_10-27-45_8__JD1148_Leopard_0682_JD_360x.jpg?v=1660764739",
+            "productUrl":"https://www.fashionnova.com/products/always-flexin-velvet-leopard-midi-dress-leopard",
+            "price":"44.99"
+        },
+        {
+            "name":"Show Some Sass Sweater Dress - Red",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/11-20-18_Studio_2_10-07-28_RD33874L_Red_CC0422_AG_360x.jpg?v=1642641812",
+            "productUrl":"https://www.fashionnova.com/products/show-some-sass-sweater-dress-red",
+            "price":"24.99"
+        },
+        {
+            "name":"Tessa Ruched Midi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/TessaRuchedMidiDress-Black__1__MER_360x.jpg?v=1639680324",
+            "productUrl":"https://www.fashionnova.com/products/tessa-ruched-midi-dress-black",
+            "price":"29.99"
+        },
+        {
+            "name":"Jessica Maxi Dress - Hunter",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-01-21Studio2_MS_OD_13-56-39_65_MF2835_Hunter_0962_PB_360x.jpg?v=1630607159",
+            "productUrl":"https://www.fashionnova.com/products/jessica-maxi-dress-hunter",
+            "price":"69.99"
+        },
+        {
+            "name":"On A Special Occasion Bandage Midi Dress - Nude",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/OnASpecialOccasionBandageMidiDress-Nude_MER_874cbfa3-97b3-4f90-9099-6c4ea4388440_360x.jpg?v=1652904334",
+            "productUrl":"https://www.fashionnova.com/products/on-a-special-occasion-bandage-midi-dress-nude",
+            "price":"54.99"
+        },
+        {
+            "name":"Shine Bright Sequin Mini Dress - Hunter",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/ShineBrightSequinMiniDress-Hunter_MER_360x.jpg?v=1618444485",
+            "productUrl":"https://www.fashionnova.com/products/shine-bright-sequin-mini-dress-hunter",
+            "price":"29.99"
+        },
+        {
+            "name":"Shanghai Ruched Dress - Hunter Green",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-14-22Studio4_MS_IM_14-48-33_33_D738_Hunter_R_3125_PB_360x.jpg?v=1666047881",
+            "productUrl":"https://www.fashionnova.com/products/shanghai-ruched-dress-hunter-green",
+            "price":"14.00"
+        },
+        {
+            "name":"Say My Name Mini Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/SayMyNameMiniDress-Black_MER_2_360x.jpg?v=1666297507",
+            "productUrl":"https://www.fashionnova.com/products/say-my-name-mini-dress-black",
+            "price":"49.99"
+        },
+        {
+            "name":"Sophia Satin Gown - Wine",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-04-22Studio7_SN_KP_11-50-17_48_MF21083_Wine_7527_EH_360x.jpg?v=1664920644",
+            "productUrl":"https://www.fashionnova.com/products/sophia-satin-gown-wine",
+            "price":"89.99"
+        },
+        {
+            "name":"Delilah T Shirt Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/04-11-22Studio2_CE_RL_13-58-12_68_JD46512_Black_0820_KS_360x.jpg?v=1665508768",
+            "productUrl":"https://www.fashionnova.com/products/delilah-t-shirt-dress-black",
+            "price":"14.00"
+        },
+        {
+            "name":"Rylee Midi Dress - Cognac",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-07-22Studio4_DD_KP_12-11-47_39_42135_Cognac_11991_PB_360x.jpg?v=1662654253",
+            "productUrl":"https://www.fashionnova.com/products/rylee-mini-dress-cognac",
+            "price":"44.99"
+        },
+        {
+            "name":"Power Hour Plaid Mini Dress - Grey/combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/PowerHourPlaidMiniDress-Greycombo_360x.jpg?v=1639611049",
+            "productUrl":"https://www.fashionnova.com/products/power-hour-plaid-mini-dress-grey-combo",
+            "price":"39.99"
+        },
+        {
+            "name":"And The Winner Is Sequin Maxi Dress - Red",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/11-16-19_Studio_1_MA_OP_14-01-29_39_DR1216_Red_3781_RG_360x.jpg?v=1574210982",
+            "productUrl":"https://www.fashionnova.com/products/and-the-winner-is-sequin-maxi-dress-red",
+            "price":"59.99"
+        },
+        {
+            "name":"Scandalous Babe Mini Dress - White",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/ScandalousBabeMiniDress-White_MER_360x.jpg?v=1645124152",
+            "productUrl":"https://www.fashionnova.com/products/scandalous-babe-mini-dress-white",
+            "price":"44.99"
+        },
+        {
+            "name":"Dolled Up For You Bandage Midi Dress - Magenta",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/12-28-21Studio2_ME_RL_11-15-53_20_D4308_Magenta_0054_KS_360x.jpg?v=1641238814",
+            "productUrl":"https://www.fashionnova.com/products/dolled-up-for-you-bandage-midi-dress-magenta",
+            "price":"49.99"
+        },
+        {
+            "name":"Cierra Sweater Midi Dress - Ivory",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/CierraSweaterMidiDress-Ivory_MER_360x.jpg?v=1638394967",
+            "productUrl":"https://www.fashionnova.com/products/cierra-sweater-midi-dress-ivory",
+            "price":"29.99"
+        },
+        {
+            "name":"Believe In Us Sequin Gown - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-13-21Studio2_ME_RS_10-44-46_10_FNT252_Black_0250_KL_360x.jpg?v=1634252379",
+            "productUrl":"https://www.fashionnova.com/products/believe-in-us-sequin-gown-black",
+            "price":"69.99"
+        },
+        {
+            "name":"He Loves Me Bandage Mini Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-28-21Studio2_SN_KP_10-17-47_12_LD646_Black_2243_KL_360x.jpg?v=1632864312",
+            "productUrl":"https://www.fashionnova.com/products/he-loves-me-bandage-mini-dress-black",
+            "price":"64.99"
+        },
+        {
+            "name":"There She Goes Velvet Maxi Dress - Chartreuse",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/07-12-22Studio6_DN_RL_13-35-58_43_MF21406_Chartreuse_4805_SG_360x.jpg?v=1657733237",
+            "productUrl":"https://www.fashionnova.com/products/there-she-goes-velvet-maxi-dress-chartreuse",
+            "price":"89.99"
+        },
+        {
+            "name":"Glow Up Sequin Mini Dress - Mocha",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/GlowUpSequinMiniDress-Mocha_MER_360x.png?v=1638924077",
+            "productUrl":"https://www.fashionnova.com/products/glow-up-sequin-mini-dress-mocha",
+            "price":"34.99"
+        },
+        {
+            "name":"Luxe Occasions Sequin Maxi Dress - Emerald",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/07-16-21Studio2_SN_TB_12-08-00_51_1694LS_Emerald_0584_EH_360x.jpg?v=1626819450",
+            "productUrl":"https://www.fashionnova.com/products/luxe-occasions-sequin-maxi-dress-emerald",
+            "price":"89.99"
+        },
+        {
+            "name":"Dressed To Impress Sequin Maxi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/07-29-21Studio2_ME_KP_12-00-01_48_C2418D_Black_1955_EH_360x.jpg?v=1628279892",
+            "productUrl":"https://www.fashionnova.com/products/dressed-to-impress-sequin-maxi-dress-black",
+            "price":"69.99"
+        },
+        {
+            "name":"Top Trend Ruched Maxi Dress - Red",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/11-02-21Black_Friday_Editorial_SN_14-00-44_LOOK_1_16533_DC_MH_360x.jpg?v=1636655175",
+            "productUrl":"https://www.fashionnova.com/products/top-trend-ruched-maxi-dress-red",
+            "price":"44.99"
+        },
+        {
+            "name":"Tie Dye Me Down Mesh Midi Dress - Multi Color",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/05-06-20Studio1_RM_CA_14-08-38_46_LD6378_MultiColor_3658_JK_360x.jpg?v=1660764760",
+            "productUrl":"https://www.fashionnova.com/products/tie-dye-me-down-mesh-midi-dress-multi-color",
+            "price":"39.99"
+        },
+        {
+            "name":"On The Runway Maxi Dress - Red",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/OnTheRunwayMaxiDress-Red_2__MER_360x.jpg?v=1607536801",
+            "productUrl":"https://www.fashionnova.com/products/on-the-runway-maxi-dress-red",
+            "price":"54.99"
+        },
+        {
+            "name":"Making It Work Mini Dress - White",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/05-04-22Studio2_CE_DJ_11-56-26_39_32280SK_White_CCP_15793_SG_JF_360x.jpg?v=1652195271",
+            "productUrl":"https://www.fashionnova.com/products/making-it-work-mini-dress-white",
+            "price":"44.99"
+        },
+        {
+            "name":"Just A Little Bit Cut Out Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/JustALittleBitCutOutDress-Black_2__MER_360x.jpg?v=1624561744",
+            "productUrl":"https://www.fashionnova.com/products/just-a-little-bit-cut-out-dress-black",
+            "price":"24.99"
+        },
+        {
+            "name":"Sparks Are Flying Satin Mini Dress - Mint",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/SparksAreFlyingSatinMiniDress-Mint_MER_0f9fe3eb-f7e4-46ed-887c-e8e1c6d38a13_360x.jpg?v=1656092934",
+            "productUrl":"https://www.fashionnova.com/products/sparks-are-flying-satin-mini-dress-mint",
+            "price":"24.99"
+        },
+        {
+            "name":"Dipped In Water Color Maxi Dress - Yellow/Combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/02-19-20_Studio_3_DM_JJ_11-12-47_23__D521FN_Yellow_0081_JK_f8139243-412b-46dc-91e9-4d88b6b535a3_360x.jpg?v=1582234527",
+            "productUrl":"https://www.fashionnova.com/products/dipped-in-water-color-maxi-dress-yellow-combo",
+            "price":"29.99"
+        },
+        {
+            "name":"Hazel Mini Tube Dress - Yellow",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/06-06-22Studio4_ME_RL_16-01-15_46_JD45631_Yellow_R_2304_JB_360x.jpg?v=1658359635",
+            "productUrl":"https://www.fashionnova.com/products/hazel-mini-tube-dress-yellow",
+            "price":"9.00"
+        },
+        {
+            "name":"Alessi Mini Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/03-08-22Studio2_MS_L_11-43-16_43_JD45751_Black_0426_KS_360x.jpg?v=1658508956",
+            "productUrl":"https://www.fashionnova.com/products/alessi-mini-dress-black",
+            "price":"9.00"
+        },
+        {
+            "name":"Doing My Thing Maxi Dress - Pink",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/02-11-20_Studio_3_JP_KYS_13-49-17_2__RD38870_Pink_P_0037_NT_360x.jpg?v=1644358834",
+            "productUrl":"https://www.fashionnova.com/products/doing-my-thing-maxi-dress-pink",
+            "price":"12.00"
+        },
+        {
+            "name":"Sanya Ruched Dress - White",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-15-21Studio3_DM_RL_13-44-02_9_D3646_White_S_3472_JB_360x.jpg?v=1660762866",
+            "productUrl":"https://www.fashionnova.com/products/sanya-ruched-dress-white",
+            "price":"24.99"
+        },
+        {
+            "name":"Mesh Me Up Knit Mini Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/06-21-22Studio2_KJ_ON_12-01-55_49_SK0791_Black_0425_KS_360x.jpg?v=1655922829",
+            "productUrl":"https://www.fashionnova.com/products/mesh-me-up-knit-mini-dress-black",
+            "price":"39.99"
+        },
+        {
+            "name":"Wish For The Best Mini Dress - Rose",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-14-20Studio2_RM_12-17-46_33_HF21C370_Rose_2971_NT_360x.jpg?v=1660950841",
+            "productUrl":"https://www.fashionnova.com/products/wish-for-the-best-mini-dress-rose",
+            "price":"29.99"
+        },
+        {
+            "name":"Brunch In Bali Maxi Dress - Green/combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/01-29-21Studio2_PA_SD_15-13-38_52_SDC303281FN_Greencombo_2_EH_360x.jpg?v=1617316153",
+            "productUrl":"https://www.fashionnova.com/products/brunch-in-bali-maxi-dress-green-combo",
+            "price":"39.99"
+        },
+        {
+            "name":"Pebble Beach Maxi Dress - White/Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/05-29-20Studio2_PA_MJ_12-01-13_24_MA9509_WhiteBlack_0935_KL_360x.jpg?v=1590784369",
+            "productUrl":"https://www.fashionnova.com/products/pebble-beach-maxi-dress-white-black",
+            "price":"39.99"
+        },
+        {
+            "name":"Eevi Mesh Midi Dress - Nude",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/EeviMeshMidiDress-Nude_MER_360x.jpg?v=1629222529",
+            "productUrl":"https://www.fashionnova.com/products/eevi-mesh-midi-dress-nude",
+            "price":"39.99"
+        },
+        {
+            "name":"Venice Romance Sweater Mini Dress - Hunter",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/VeniceRomanceSweaterMiniDress-Hunter_MER_360x.jpg?v=1666903399",
+            "productUrl":"https://www.fashionnova.com/products/venice-romance-sweater-mini-dress-hunter",
+            "price":"39.99"
+        },
+        {
+            "name":"Rylee Ribbed Mini Dress - Chocolate",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/11-17-20Studio3_CE_SA_11-39-23_26_RD42283L_Chocolate_0942_JK_360x.jpg?v=1658791917",
+            "productUrl":"https://www.fashionnova.com/products/rylee-ribbed-mini-dress-chocolate",
+            "price":"19.99"
+        },
+        {
+            "name":"Smooth Vibe Velvet Ruched Midi Dress - Red",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/12-07-20Studio2_CE_RL_10-01-52_3_DGI3213_Red_11395_NT_360x.jpg?v=1607372721",
+            "productUrl":"https://www.fashionnova.com/products/smooth-vibe-velvet-ruched-midi-dress-red",
+            "price":"29.99"
+        },
+        {
+            "name":"Brina Mini Dress - Lavender",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/03-17-22Studio1_MS_K_10-15-29_15_HF22F323FN_Lavender_2241_PB_360x.jpg?v=1654648878",
+            "productUrl":"https://www.fashionnova.com/products/brina-mini-dress-lavender",
+            "price":"24.99"
+        },
+        {
+            "name":"Ready In A Ruched Off Shoulder Midi Dress - Rust/Nude",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-14-22Studio7_ME_RL_14-10-42_36_72844_Rustcombo_1412__ES_360x.jpg?v=1666032964",
+            "productUrl":"https://www.fashionnova.com/products/ready-in-a-ruched-off-shoulder-midi-dress-rust-nude",
+            "price":"39.99"
+        },
+        {
+            "name":"90's Chic Mini Dress - White",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/90_sChicMiniDress-White_MER_2_360x.jpg?v=1638826438",
+            "productUrl":"https://www.fashionnova.com/products/90s-chic-mini-dress-white",
+            "price":"44.99"
+        },
+        {
+            "name":"I Want More Sweater Mini Dress - Mauve",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-08-22Studio4_SN_DJ_13-24-37_35_J3H0207S_Mauve_12685_SG_360x.jpg?v=1662750357",
+            "productUrl":"https://www.fashionnova.com/products/i-want-more-sweater-mini-dress-mauve",
+            "price":"34.99"
+        },
+        {
+            "name":"Sugar Free Dress - White",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-14-22Studio7_ME_RL_14-02-33_33_DWRZ12911A_White_1361__ES_360x.jpg?v=1666032560",
+            "productUrl":"https://www.fashionnova.com/products/sugar-free-dress-white",
+            "price":"34.99"
+        },
+        {
+            "name":"Bonita Lace Maxi Dress - Burgundy",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/07-12-22Studio6_DN_RL_13-38-24_44_MF2397_Burgundy_4814_SG_360x.jpg?v=1657733390",
+            "productUrl":"https://www.fashionnova.com/products/bonita-lace-maxi-dress-burgundy",
+            "price":"89.99"
+        },
+        {
+            "name":"Kallan Knit Dress - Pink",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/KallanKnitDress-Pink_MER_2_360x.jpg?v=1644252763",
+            "productUrl":"https://www.fashionnova.com/products/kallan-knit-dress-pink",
+            "price":"24.00"
+        },
+        {
+            "name":"Going Big Snake Corset Shirt Dress - Taupe/combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-07-19_Studio_3_JP_RE_11-02-39_5__SD39024_Taupecombo_0708_NT_360x.jpg?v=1621358717",
+            "productUrl":"https://www.fashionnova.com/products/going-big-snake-corset-shirt-dress-taupe-combo",
+            "price":"39.99"
+        },
+        {
+            "name":"Sugar Free Velvet Maxi Dress - Hunter",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-15-21_Holiday_Editorial_JP_12-24-58_LOOK_1_2362_KS_DM_360x.jpg?v=1635772288",
+            "productUrl":"https://www.fashionnova.com/products/sugar-free-velvet-maxi-dress-hunter",
+            "price":"59.99"
+        },
+        {
+            "name":"Simply Ageless Ruched Midi Dress - Nude",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/SimplyAgelessRuchedMidiDress-Nude_MER_360x.jpg?v=1586478985",
+            "productUrl":"https://www.fashionnova.com/products/simply-ageless-ruched-midi-dress-nude",
+            "price":"34.99"
+        },
+        {
+            "name":"Need You In My Life Ruched Midi Dress - Mustard",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/NeedYouInMyLifeRuchedMidiDress-Mustard_MER_360x.jpg?v=1613610106",
+            "productUrl":"https://www.fashionnova.com/products/need-you-in-my-life-ruched-midi-dress-mustard",
+            "price":"34.99"
+        },
+        {
+            "name":"All About It Denim Midi Dress - Light Wash",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-07-20Studio4_AP_SD_15-25_59_AM64_LightWash_48414_EH_360x.jpg?v=1597076884",
+            "productUrl":"https://www.fashionnova.com/products/all-about-it-denim-midi-dress-light-wash",
+            "price":"49.99"
+        },
+        {
+            "name":"Feelin' Edgy Distressed Sweater Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-13-22Studio1_SN_MR_15-40-30_52_SD179_Cream_PR_16194_JB_360x.jpg?v=1663175947",
+            "productUrl":"https://www.fashionnova.com/products/feelin-edgy-distressed-sweater-dress-black",
+            "price":"39.99"
+        },
+        {
+            "name":"Top Trend Ruched Maxi Dress - White",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/TopTrendRuchedMaxiDress-White_MER_360x.jpg?v=1633111732",
+            "productUrl":"https://www.fashionnova.com/products/top-trend-ruched-maxi-dress-white",
+            "price":"44.99"
+        },
+        {
+            "name":"Becca Lace Up Maxi Dress - White",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/BeccaLaceUpMaxiDress-White_MER_360x.jpg?v=1666305449",
+            "productUrl":"https://www.fashionnova.com/products/becca-lace-up-maxi-dress-white",
+            "price":"44.99"
+        },
+        {
+            "name":"Madeline Open Back Mini Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/02-24-22Studio1_MS_AC_10-26-31_11_73225_Black_5729_WG_360x.jpg?v=1650501479",
+            "productUrl":"https://www.fashionnova.com/products/madeline-open-back-mini-dress-black",
+            "price":"8.00"
+        },
+        {
+            "name":"Gypsy Love Maxi Dress - Olive/combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/02-08-21Studio2_MS_SD_14-39-02_40_SD311609201_Olivecombo_3_RG_360x.jpg?v=1657128897",
+            "productUrl":"https://www.fashionnova.com/products/gypsy-love-maxi-dress-olive-combo",
+            "price":"39.99"
+        },
+        {
+            "name":"Come My Way Midi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/ComeMyWayMidiDress-Black_MER_87ce538f-7b1d-4015-8ba2-a16a8f3fab72_360x.jpg?v=1650308816",
+            "productUrl":"https://www.fashionnova.com/products/come-my-way-midi-dress-black",
+            "price":"29.99"
+        },
+        {
+            "name":"Lilah Ombre Sequin Maxi Dress - Wine",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/07-28-22Studio7_ME_AC_10-56-27_10_HMD13586_Wine_0053__JB_360x.jpg?v=1659394737",
+            "productUrl":"https://www.fashionnova.com/products/lilah-ombre-sequin-maxi-dress-wine",
+            "price":"49.99"
+        },
+        {
+            "name":"Look At Me Hooded Mini Dress - Grey",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-01-19_Studio_2_MA_LE_10-12-52_8_RD62521_Grey_33817_NT_360x.jpg?v=1643331476",
+            "productUrl":"https://www.fashionnova.com/products/look-at-me-hooded-mini-dress-grey",
+            "price":"14.00"
+        },
+        {
+            "name":"Farrah Fit And Flare Mini Dress - Black/Rose Gold",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/11-05-19_Studio_2_OD_LE_15-22-04_28_ND11375FN_BlackRoseGold_P_3672_RA_360x.jpg?v=1573075946",
+            "productUrl":"https://www.fashionnova.com/products/farrah-fit-and-flare-mini-dress-black-rose-gold",
+            "price":"54.99"
+        },
+        {
+            "name":"Lhasa Ruched Dress - Lavender",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/Fashion_Nova_01-09-18-025.JPG?v=1649790012",
+            "productUrl":"https://www.fashionnova.com/products/lhasa-ruched-dress-lavender",
+            "price":"15.00"
+        },
+        {
+            "name":"Josie Sweater Mini Dress - Royal",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-05-22Studio2_DM_OS_12-37-19_40_HM382FN_Royal_4634_KS_360x.jpg?v=1659987852",
+            "productUrl":"https://www.fashionnova.com/products/josie-sweater-mini-dress-royal",
+            "price":"44.99"
+        },
+        {
+            "name":"Come Pull My Strings Mini Dress - Brown",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/ComePullMyStringsMiniDress-Brown_MER_360x.jpg?v=1614655260",
+            "productUrl":"https://www.fashionnova.com/products/come-pull-my-strings-mini-dress-brown",
+            "price":"34.99"
+        },
+        {
+            "name":"Drinks On Her Maxi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/12-27-19_Studio_3_DM_JJ_15-08-35_47__JD38538_Black_0610_JK_360x.jpg?v=1580510437",
+            "productUrl":"https://www.fashionnova.com/products/drinks-on-her-maxi-dress-black",
+            "price":"14.00"
+        },
+        {
+            "name":"Sarita Sequin Mini Dress - Fuchsia",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-15-22Studio3_ME_KP_14-51-46_52_5638D_Fuchsia_0695_PB_360x.jpg?v=1665507757",
+            "productUrl":"https://www.fashionnova.com/products/sarita-sequin-mini-dress-fuchsia",
+            "price":"54.99"
+        },
+        {
+            "name":"Booked And Busy Corset Mini Dress - Olive",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-06-20Studio2_PA_MJ_12-00-39_14_73404_Olive_11881_KL_360x.jpg?v=1655771710",
+            "productUrl":"https://www.fashionnova.com/products/booked-and-busy-mini-dress-olive",
+            "price":"49.99"
+        },
+        {
+            "name":"Jaw Dropping Sequin Maxi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/07-19-21Studio2_SN_KP_11-07-13_59_DR1934FN_Black_1152_KL_360x.jpg?v=1626881191",
+            "productUrl":"https://www.fashionnova.com/products/jaw-dropping-sequin-maxi-dress-black",
+            "price":"69.99"
+        },
+        {
+            "name":"A Romantic Comedy Satin Midi Dress - Blush",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/ARomanticComedySatinMidiDress-Blush_MER_360x.jpg?v=1607542169",
+            "productUrl":"https://www.fashionnova.com/products/a-romantic-comedy-satin-midi-dress-blush",
+            "price":"34.99"
+        },
+        {
+            "name":"Award Collecting Sequin Maxi Gown - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-21-19_Studio_1_DV_KYS_10-23-11_2__BCCDQ12061_Black_P_3616_NT_360x.jpg?v=1571783535",
+            "productUrl":"https://www.fashionnova.com/products/award-collecting-sequin-maxi-gown-black",
+            "price":"99.99"
+        },
+        {
+            "name":"Bad For The Night Bandage Midi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/BadForTheNightBandageMidiDress-Black_MER_febd1e65-8934-467c-b557-30da477088b6_360x.jpg?v=1638394721",
+            "productUrl":"https://www.fashionnova.com/products/bad-for-the-night-bandage-midi-dress-black",
+            "price":"69.99"
+        },
+        {
+            "name":"Maura Mesh Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/Fashion_Nova_06-13-17-122_JK_360x.jpg?v=1657230389",
+            "productUrl":"https://www.fashionnova.com/products/maura-mesh-dress-black",
+            "price":"24.99"
+        },
+        {
+            "name":"Dinner Date Ready Bandage Midi Dress - Royal",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-12-22Studio2_MS_KP_13-20-19_62_C2559D_Royal_2876_PB_360x.jpg?v=1660699467",
+            "productUrl":"https://www.fashionnova.com/products/dinner-date-ready-bandage-midi-dress-royal",
+            "price":"59.99"
+        },
+        {
+            "name":"Spree Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/SpreeDress-Black_MER_360x.jpg?v=1639442336",
+            "productUrl":"https://www.fashionnova.com/products/spree-dress",
+            "price":"34.99"
+        },
+        {
+            "name":"Something To You Fringe Dress - Black/Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/Fashion_Nova_07-25-17-183_360x.jpg?v=1571437960",
+            "productUrl":"https://www.fashionnova.com/products/something-to-you-fringe-dress-black-black",
+            "price":"34.99"
+        },
+        {
+            "name":"Sugar Coat Velvet Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/SugarCoatVelvetDress-Black_MER_6c320da8-1f24-4525-aa09-deac95c861a5_360x.jpg?v=1635974376",
+            "productUrl":"https://www.fashionnova.com/products/sugar-coat-velvet-dress-black",
+            "price":"29.99"
+        },
+        {
+            "name":"Stop And Flare Shirt Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/07-02-21Studio2_CE_KP_13-39-51_56_D678FN_Black_2489_JK_360x.jpg?v=1642724645",
+            "productUrl":"https://www.fashionnova.com/products/stop-and-flare-shirt-dress-black",
+            "price":"29.99"
+        },
+        {
+            "name":"Angel Smiles Maxi Dress - Wine/combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-13-22Studio2_RM_14-34-55_4_MF2444_WineCombo_6113__SG_360x.jpg?v=1663113848",
+            "productUrl":"https://www.fashionnova.com/products/angel-smiles-maxi-dress-wine-combo",
+            "price":"79.99"
+        },
+        {
+            "name":"Fast And Fabulous Mini Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-22-22Studio1_CE_AC_RL_10-33-16_6_D40329_Black_P_1597_EH_360x.jpg?v=1663879818",
+            "productUrl":"https://www.fashionnova.com/products/fast-and-fabulous-mini-dress-black",
+            "price":"39.99"
+        },
+        {
+            "name":"Shine Away Sequin Maxi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-03-19_Studio_1_DV_LE_10-49-17_2__4103D_Black_3599_NT_360x.jpg?v=1568682081",
+            "productUrl":"https://www.fashionnova.com/products/shine-away-sequin-maxi-dress-black",
+            "price":"69.99"
+        },
+        {
+            "name":"Jaime Midi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-30-22Studio4_MS_DJ_13-05-36_46_CRD1209L_Black_3399_EH_360x.jpg?v=1664817175",
+            "productUrl":"https://www.fashionnova.com/products/jaime-midi-dress-black",
+            "price":"20.00"
+        },
+        {
+            "name":"Exclusive Tulle Mini Dress - Hot Pink",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-15-21_Holiday_Editorial_SN_17-13-40_LOOK_2_0836_KS_DM_360x.jpg?v=1635772596",
+            "productUrl":"https://www.fashionnova.com/products/exclusive-tulle-mini-dress-hot-pink",
+            "price":"69.99"
+        },
+        {
+            "name":"Pretty Hurts Dress - Hunter",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-05-18_Studio_2_13-49-17_DT1159_Hunter0680_JD_360x.jpg?v=1571439553",
+            "productUrl":"https://www.fashionnova.com/products/pretty-hurts-dress-hunter",
+            "price":"49.99"
+        },
+        {
+            "name":"Family Affair Sequin Dress - Silver",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/FamilyAffairSequinDress-Silver_MER_360x.jpg?v=1615409944",
+            "productUrl":"https://www.fashionnova.com/products/family-affair-sequin-dress-silver",
+            "price":"54.99"
+        },
+        {
+            "name":"Juliet Flare Ruffle Mini Dress - Mauve",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/JulietFlareRuffleMiniDress-Mauve_MER_360x.jpg?v=1644003635",
+            "productUrl":"https://www.fashionnova.com/products/juliet-flare-ruffle-mini-dress-mauve",
+            "price":"34.99"
+        },
+        {
+            "name":"Anyssa Sequin Mini Dress - Silver",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/07-19-21Studio2_SN_KP_11-56-16_78_5253D_Silver_1288_JK_360x.jpg?v=1626822218",
+            "productUrl":"https://www.fashionnova.com/products/anyssa-sequin-mini-dress-silver",
+            "price":"54.99"
+        },
+        {
+            "name":"Karli Sequin Maxi Dress - Silver",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/KarliSequinMaxiDress-Silver_MER_360x.jpg?v=1637714409",
+            "productUrl":"https://www.fashionnova.com/products/karli-sequin-maxi-dress-silver",
+            "price":"79.99"
+        },
+        {
+            "name":"Fine Design Slinky Maxi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/FineDesignSlinkyMaxiDress-Black_MER_360x.jpg?v=1638390712",
+            "productUrl":"https://www.fashionnova.com/products/fine-design-slinky-maxi-dress-black",
+            "price":"29.99"
+        },
+        {
+            "name":"Mona Sweater Midi Dress - Magenta",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-20-21Studio2_SN_RL_12-03-00_42_ID2591_Magenta_1696_KS_360x.jpg?v=1632264885",
+            "productUrl":"https://www.fashionnova.com/products/mona-sweater-midi-dress-magenta",
+            "price":"49.99"
+        },
+        {
+            "name":"Amilia Double Lined Midi Dress - Chocolate",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-26-21Studio2_RM_JH_14-00-29_55_JD44588L_Chocolate_4843_PB_360x.jpg?v=1630021286",
+            "productUrl":"https://www.fashionnova.com/products/amilia-double-lined-midi-dress-chocolate",
+            "price":"24.99"
+        },
+        {
+            "name":"Flirty And Fun Sweater Mini Dress - Green",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-08-22Studio4_SN_DJ_13-33-20_36_ID5527_Green_12698_SG_360x.jpg?v=1662750396",
+            "productUrl":"https://www.fashionnova.com/products/flirty-and-fun-sweater-mini-dress-green",
+            "price":"49.99"
+        },
+        {
+            "name":"Litzel Sweater Midi Dress - Chocolate",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-12-22Studio3_KJ_AC_10-17-30_2_DZ22F932_Chocolate_2408_KS_360x.jpg?v=1665618429",
+            "productUrl":"https://www.fashionnova.com/products/litzel-sweater-midi-dress-chocolate",
+            "price":"24.99"
+        },
+        {
+            "name":"Estelle Tulle Dress Set - White",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/06-09-22Studio5_CE_RL_15-48-53_49_BZ9032_White_P_1624_SG_360x.jpg?v=1654897257",
+            "productUrl":"https://www.fashionnova.com/products/estelle-tulle-dress-set-white",
+            "price":"149.99"
+        },
+        {
+            "name":"Mermaid Fresh Out Of Fashion Week Dress - Red",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-03-22Studio4_KS_KP_13-14-04_58_SA0925_Red_8148__JB_360x.jpg?v=1664911863",
+            "productUrl":"https://www.fashionnova.com/products/mermaid-fresh-out-of-fashion-week-dress-red",
+            "price":"169.99"
+        },
+        {
+            "name":"Midnight Party Sequin Mini Dress - Coco/Silver",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-17-22Studio3_MS_AC_15-11-24_38_5646D_CocoSilver_0857_KS_360x.jpg?v=1660868876",
+            "productUrl":"https://www.fashionnova.com/products/midnight-party-sequin-mini-dress-coco-silver",
+            "price":"59.99"
+        },
+        {
+            "name":"Blair Midi Dress - Nude",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-20-22Studio2_MS_RL_14-49-56_25_DB3907_Nude_1593_SG_360x.jpg?v=1666312115",
+            "productUrl":"https://www.fashionnova.com/products/blair-midi-dress-nude",
+            "price":"29.99"
+        },
+        {
+            "name":"No Cuts Given Bandage Midi Dress - Neon Orange",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/NoCutsGivenBandageMidiDress-NeonOrange_MER_360x.jpg?v=1644276529",
+            "productUrl":"https://www.fashionnova.com/products/no-cuts-given-bandage-midi-dress-neon-orange",
+            "price":"49.99"
+        },
+        {
+            "name":"Take Me There Ribbed Midi Dress - Olive",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/05-09-19_MS_11-43-48_4_RD33268_Olive_0149_JK_360x.jpg?v=1571440589",
+            "productUrl":"https://www.fashionnova.com/products/take-me-there-ribbed-midi-dress-olive",
+            "price":"16.00"
+        },
+        {
+            "name":"Macie Ruched Halter Dress - Yellow",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/05-12-22Studio5_SN_RL_13-31-00_36_73425FN_Yellow_12700_SG_360x.jpg?v=1653404005",
+            "productUrl":"https://www.fashionnova.com/products/macie-ruched-halter-dress-yellow",
+            "price":"7.00"
+        },
+        {
+            "name":"Becca Fit And Flare Mini Dress - Yellow",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/03-21-22Studio4_CE_RL_12-05-11_38_RD46038_Yellow_5626_KL_360x.jpg?v=1658445763",
+            "productUrl":"https://www.fashionnova.com/products/becca-fit-and-flare-mini-dress-yellow",
+            "price":"12.00"
+        },
+        {
+            "name":"Monika Ribbed Midi Dress - Cognac",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/09-09-22Studio4_CE_DJ_12-59-43_33_RD47278L_Cognac_13361_P_KS_360x.jpg?v=1662763930",
+            "productUrl":"https://www.fashionnova.com/products/monika-ribbed-midi-dress-cognac",
+            "price":"14.00"
+        },
+        {
+            "name":"Luxe Occasions Sequin Maxi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/07-07-21Studio2_SN_RL_10-34-45_45_1694LS_Black_3949_NT_360x.jpg?v=1625861939",
+            "productUrl":"https://www.fashionnova.com/products/luxe-occasions-sequin-maxi-dress-black",
+            "price":"89.99"
+        },
+        {
+            "name":"Jaw Dropper Sequin Maxi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/10-15-21_Holiday_Editorial_JP_13-19-24_LOOK_1_2624_WG_DM_360x.jpg?v=1635774216",
+            "productUrl":"https://www.fashionnova.com/products/jaw-dropper-sequin-maxi-dress-black",
+            "price":"79.99"
+        },
+        {
+            "name":"Gabriella Satin Maxi Shirt Dress - Magenta",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/01-26-22Studio3_SN_KP_10-57-03_23_DR1645_Magenta_R_2314_EH_360x.jpg?v=1643741933",
+            "productUrl":"https://www.fashionnova.com/products/gabriella-satin-maxi-shirt-dress-magenta",
+            "price":"49.99"
+        },
+        {
+            "name":"Doing Big Things Ruched Mini Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/02-26-20_Studio_3_RM_ES_12-09-15_19__IBD051901N_Black_P_0157_EH_360x.jpg?v=1660950829",
+            "productUrl":"https://www.fashionnova.com/products/doing-big-things-ruched-mini-dress-black",
+            "price":"34.99"
+        },
+        {
+            "name":"Until The Weekend Sequin Maxi Dress - White",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/07-20-21Studio2_SN_TB_10-20-40_16_1013AP8_White_0028_EH_360x.jpg?v=1626975187",
+            "productUrl":"https://www.fashionnova.com/products/until-the-weekend-sequin-maxi-dress-white",
+            "price":"89.99"
+        },
+        {
+            "name":"Until The Weekend Sequin Maxi Dress - Emerald",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/07-20-21Studio2_SN_TB_10-18-07_15_1013AP8_Emerald_0022_EH_360x.jpg?v=1626973647",
+            "productUrl":"https://www.fashionnova.com/products/until-the-weekend-sequin-maxi-dress-emerald",
+            "price":"89.99"
+        },
+        {
+            "name":"Did You Mesh Me Ruched Midi Dress - Nude",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/DidYouMeshMeRuchedMidiDress-Nude_MER_2_360x.jpg?v=1642188219",
+            "productUrl":"https://www.fashionnova.com/products/did-you-mesh-me-ruched-midi-dress-nude",
+            "price":"49.99"
+        },
+        {
+            "name":"Center Of The Party Ruched Mini Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/06-30-20_JP_DJ_10-44-41_8_73204_Black_P_3828_JK_360x.jpg?v=1649790624",
+            "productUrl":"https://www.fashionnova.com/products/center-of-the-party-ruched-mini-dress-black",
+            "price":"34.99"
+        },
+        {
+            "name":"Zoe Glove Gown - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/07-27-22Studio7_RM_AC_15-55-48_19_D24006_Black_P_2262__PB_360x.jpg?v=1659031357",
+            "productUrl":"https://www.fashionnova.com/products/zoe-glove-gown-black",
+            "price":"59.99"
+        },
+        {
+            "name":"She's Elegant Satin Midi Dress - Red",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-31-22Studio3_ME_RL_16-02-12_34_74089_Red_0906_EH_360x.jpg?v=1662051774",
+            "productUrl":"https://www.fashionnova.com/products/shes-elegant-satin-midi-dress-red",
+            "price":"69.99"
+        },
+        {
+            "name":"Serena Bandage Feather Midi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-12-22Studio2_MS_KP_11-13-46_34_MD5890_Black_2537_KS_360x.jpg?v=1660698701",
+            "productUrl":"https://www.fashionnova.com/products/serena-bandage-feather-midi-dress-black",
+            "price":"69.99"
+        },
+        {
+            "name":"Monique Ribbed Maxi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/08-24-22Studio2_MS_Rene_14-41-11_25_RD47432L_Black_P_0409_PB_360x.jpg?v=1661466295",
+            "productUrl":"https://www.fashionnova.com/products/monique-ribbed-maxi-dress-black",
+            "price":"14.00"
+        },
+        {
+            "name":"Maura Mesh Dress - Burgundy",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/06-08-18_Studio_2_NAA0001_Burgundy_0492.JPG?v=1657230561",
+            "productUrl":"https://www.fashionnova.com/products/maura-mesh-dress-burgundy",
+            "price":"24.99"
+        },
+        {
+            "name":"There For You Sweater Midi Dress - Cognac",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/ThereForYouSweaterMidiDress-Cognac_MER_360x.png?v=1636070320",
+            "productUrl":"https://www.fashionnova.com/products/there-for-you-sweater-midi-dress-cognac",
+            "price":"29.99"
+        },
+        {
+            "name":"Stormy Weather Mini Dress - Multi",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/StormyWeatherMiniDress-Multi_MER_fe80f936-2ca2-4969-b9aa-d1f245ba255d_360x.jpg?v=1627336644",
+            "productUrl":"https://www.fashionnova.com/products/stormy-weather-mini-dress-multi",
+            "price":"19.99"
+        },
+        {
+            "name":"Here To Party Maxi Dress - Champagne",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/HereToPartyMaxiDress-Champagne_MER_360x.jpg?v=1626281523",
+            "productUrl":"https://www.fashionnova.com/products/here-to-party-maxi-dress-champagne",
+            "price":"84.99"
+        },
+        {
+            "name":"Katie Cami Slip Dress - Burgundy",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/Fashion_Nova_11-29-17-928.JPG?v=1571438406",
+            "productUrl":"https://www.fashionnova.com/products/katie-cami-slip-dress-burgundy",
+            "price":"5.00"
+        },
+        {
+            "name":"Mix And Match Mini Shirt Dress - Ivory/combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/12-08-20Studio4_MS_JH_15-25-20_59_FND2156_Ivorycombo_53033_KL_360x.jpg?v=1607475259",
+            "productUrl":"https://www.fashionnova.com/products/mix-and-match-mini-shirt-dress-ivory-combo",
+            "price":"34.99"
+        },
+        {
+            "name":"Anitta Velvet Midi Dress - Burgundy",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/11-12-21Studio2_MS_09-20-27_3_RD83236_Burgundy_1657_MH_360x.jpg?v=1636760929",
+            "productUrl":"https://www.fashionnova.com/products/anitta-velvet-midi-dress-burgundy",
+            "price":"19.99"
+        },
+        {
+            "name":"Don't Cross Me Maxi Dress - Black",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/Don_tCrossMeMaxiDress-Black_MER3_360x.jpg?v=1625606267",
+            "productUrl":"https://www.fashionnova.com/products/dont-cross-me-maxi-dress-black",
+            "price":"29.99"
+        },
+        {
+            "name":"Alpha Off Shoulder Snatched Dress - Mauve",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/01-25-22Studio3_CE_RL_10-18-24_14_D14326_Mauve_1643_EH_360x.jpg?v=1643652486",
+            "productUrl":"https://www.fashionnova.com/products/alpha-off-shoulder-snatched-dress-mauve",
+            "price":"39.99"
+        },
+        {
+            "name":"Catching A Vibe Sweater Mini Dress - Green/combo",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/12-09-21Studio1_CE_TB_15-04-08_65_LD5877BFN_Greencombo_10820_KL_360x.jpg?v=1660950968",
+            "productUrl":"https://www.fashionnova.com/products/catching-a-vibe-sweater-mini-dress-green-combo",
+            "price":"49.99"
+        },
+        {
+            "name":"Mesh It Up Mini Dress - Rust",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/MeshItUpMiniDress-Rust_MER_6cfc211a-0ba0-480b-a492-38225ae36e8d_360x.jpg?v=1632851679",
+            "productUrl":"https://www.fashionnova.com/products/mesh-it-up-mini-dress-rust",
+            "price":"24.99"
+        },
+        {
+            "name":"Take Me Higher Satin Mini Dress - Red",
+            "imageUrl":"https://cdn.shopify.com/s/files/1/0293/9277/products/11-18-19_Studio_3_JP_JJ_PA_10-45-31_20__S3083DFN_Red_0527_NT_360x.jpg?v=1638211186",
+            "productUrl":"https://www.fashionnova.com/products/take-me-higher-satin-mini-dress-red",
+            "price":"29.99"
+        }
+    ]
+    
+}
